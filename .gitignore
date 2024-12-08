@@ -18,4 +18,4 @@ pratik/
 sih3/
 app.py
 summary.py
-env/
+.env

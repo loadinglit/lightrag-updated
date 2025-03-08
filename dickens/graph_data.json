@@ -1,0 +1,3070 @@
+{
+  "nodes": [
+    {
+      "id": "ENTITY",
+      "entity_type": "CONCEPT",
+      "description": "\"An entity is something that exists as itself, as a subject or as an object, actually or potentially, concretely or abstractly, physically or not.\"",
+      "source_id": "chunk-d6c5855a62cf32a4dadbc2831f0f295f"
+    },
+    {
+      "id": "EVENT",
+      "entity_type": "EVENT",
+      "description": "\"An event is something that happens, especially something important or unusual.\"",
+      "source_id": "chunk-59aeb2c9970b7b25be2fab2317e31fcb"
+    },
+    {
+      "id": "ORGANIZATION",
+      "entity_type": "ORGANIZATION",
+      "description": "\"An organization is a group of people with a particular purpose, such as a business or government department.\"",
+      "source_id": "chunk-59aeb2c9970b7b25be2fab2317e31fcb"
+    },
+    {
+      "id": "DEPENDENCIES",
+      "entity_type": "CONCEPT",
+      "description": "\"Dependencies refer to the reliance or need for certain elements or conditions to function or exist.\"<SEP>\"Dependencies refer to the reliance or need for certain elements, conditions, or resources to function or exist. In various contexts, dependencies can influence the performance, stability, and outcomes of systems, projects, or relationships.\"",
+      "source_id": "chunk-0e591676949d1032471f2681537da651"
+    },
+    {
+      "id": "MAIN ORGANIZATION",
+      "entity_type": "ORGANIZATION",
+      "description": "\"Main Organization is a group or institution that operates within the geographical area referred to as Main.\"",
+      "source_id": "chunk-fad58de7366495db4650cfefac2fcd61"
+    },
+    {
+      "id": "MAIN",
+      "entity_type": "GEO",
+      "description": "\"Main is a geographical location, potentially central to the context of the text.\"",
+      "source_id": "chunk-fad58de7366495db4650cfefac2fcd61"
+    },
+    {
+      "id": "DOCUMENT",
+      "entity_type": "ORGANIZATION",
+      "description": "\"A document is a written, drawn, presented, or recorded representation of thoughts.\"",
+      "source_id": "chunk-d6c5855a62cf32a4dadbc2831f0f295f"
+    },
+    {
+      "id": "GEO",
+      "entity_type": "GEO",
+      "description": "\"Geo refers to geographical locations or features.\"",
+      "source_id": "chunk-59aeb2c9970b7b25be2fab2317e31fcb"
+    },
+    {
+      "id": "AUTHOR",
+      "entity_type": "PERSON",
+      "description": "\"The Author is the individual who wrote the text document.\"",
+      "source_id": "chunk-02bd92faa38aaa6cc0ea75e59937a1ef"
+    },
+    {
+      "id": "JANE SMITH",
+      "entity_type": "PERSON",
+      "description": "\"Jane Smith is another individual who is potentially relevant to the context of the text.\"",
+      "source_id": "chunk-fad58de7366495db4650cfefac2fcd61"
+    },
+    {
+      "id": "MAIN EVENT",
+      "entity_type": "EVENT",
+      "description": "\"Main Event is a significant occurrence or happening within the context of the text.\"",
+      "source_id": "chunk-fad58de7366495db4650cfefac2fcd61"
+    },
+    {
+      "id": "RELATIONSHIP",
+      "entity_type": "CONCEPT",
+      "description": "\"A relationship is a connection, association, or involvement between two or more entities.\"",
+      "source_id": "chunk-d6c5855a62cf32a4dadbc2831f0f295f"
+    },
+    {
+      "id": "SCRIPTS",
+      "entity_type": "EVENT",
+      "description": "\"Scripts refer to written texts that are potentially relevant to the activity of identifying entities and relationships within a document.\"",
+      "source_id": "chunk-d6c5855a62cf32a4dadbc2831f0f295f"
+    },
+    {
+      "id": "PERSON",
+      "entity_type": "PERSON",
+      "description": "\"A person is an individual human being.\"",
+      "source_id": "chunk-59aeb2c9970b7b25be2fab2317e31fcb"
+    },
+    {
+      "id": "VERSION",
+      "entity_type": "EVENT",
+      "description": "\"Version refers to a specific iteration or release of a document, software, or other item, indicating a point in its development or history.\"",
+      "source_id": "chunk-2af72f100c356273d46284f6fd1dfc08"
+    },
+    {
+      "id": "JOHN DOE",
+      "entity_type": "PERSON",
+      "description": "\"John Doe is an individual who is potentially relevant to the context of the text.\"",
+      "source_id": "chunk-fad58de7366495db4650cfefac2fcd61"
+    },
+    {
+      "id": "MAIN STREET",
+      "entity_type": "GEO",
+      "description": "\"Main Street is a specific location within the geographical area referred to as Main.\"",
+      "source_id": "chunk-fad58de7366495db4650cfefac2fcd61"
+    },
+    {
+      "id": "SAMSUNG GALAXY S21",
+      "entity_type": "EVENT",
+      "description": "\"The Samsung Galaxy S21 is a premium smartphone with a 6.2-inch display, Exynos 2100 processor, and a versatile triple-camera setup.\"",
+      "source_id": "chunk-5fb9ea84ac0fb7fa80ef80162ec2fafe"
+    },
+    {
+      "id": "AMAZON",
+      "entity_type": "ORGANIZATION",
+      "description": "\"Amazon is an e-commerce platform where various products, including the Samsung Galaxy S21, are sold.\"",
+      "source_id": "chunk-5fb9ea84ac0fb7fa80ef80162ec2fafe"
+    },
+    {
+      "id": "LIGHTWEIGHT DESIGN",
+      "entity_type": "EVENT",
+      "description": "\"Lightweight Design refers to the Modesk Universal Mobile Holder's feature of being only 122 grams, making it easy to handle and move.\"",
+      "source_id": "chunk-7b32e0e6e84c5b591623650c520a6204"
+    },
+    {
+      "id": "EXPRO CHARGING PAD IMAGE 6",
+      "entity_type": "EVENT",
+      "description": "\"A sixth image of the Expro Charging Pad, demonstrating its compatibility with all mobile phones.\"",
+      "source_id": "chunk-5fb9ea84ac0fb7fa80ef80162ec2fafe"
+    },
+    {
+      "id": "SAMSUNG GALAXY S21 BACK IMAGE",
+      "entity_type": "EVENT",
+      "description": "\"An image of the back view of the Samsung Galaxy S21, highlighting its camera setup.\"",
+      "source_id": "chunk-5fb9ea84ac0fb7fa80ef80162ec2fafe"
+    },
+    {
+      "id": "EXPRO CHARGING PAD",
+      "entity_type": "EVENT",
+      "description": "\"The Expro Charging Pad with Glossy Look and Strong Body is a mobile holder designed for safe docking and charging of phones.\"",
+      "source_id": "chunk-5fb9ea84ac0fb7fa80ef80162ec2fafe"
+    },
+    {
+      "id": "STRIFF",
+      "entity_type": "ORGANIZATION",
+      "description": "\"STRIFF is a brand that manufactures the Flexible Mobile Stand, which features a 360-degree rotation and a heavy-duty clamp.\"",
+      "source_id": "chunk-5fb9ea84ac0fb7fa80ef80162ec2fafe"
+    },
+    {
+      "id": "ANGULAR DESIGN",
+      "entity_type": "EVENT",
+      "description": "\"Angular Design is a feature of the Modesk Universal Mobile Holder that provides a perfect viewing angle for smartphones.\"",
+      "source_id": "chunk-7b32e0e6e84c5b591623650c520a6204"
+    },
+    {
+      "id": "PORTRONICS POR-122 MODESK IMAGE",
+      "entity_type": "EVENT",
+      "description": "\"An image of the Portronics POR-122 MoDesk Universal Mobile Holder, highlighting its stainless steel body and anti-skid silicon pads.\"",
+      "source_id": "chunk-5fb9ea84ac0fb7fa80ef80162ec2fafe"
+    },
+    {
+      "id": "EXPRO CHARGING PAD IMAGE 1",
+      "entity_type": "EVENT",
+      "description": "\"An image of the Expro Charging Pad, showcasing its glossy look and strong body.\"",
+      "source_id": "chunk-5fb9ea84ac0fb7fa80ef80162ec2fafe"
+    },
+    {
+      "id": "PORTRONICS POR-122 MODESK",
+      "entity_type": "EVENT",
+      "description": "\"The Portronics POR-122 MoDesk Universal Mobile Holder is a stainless steel desk mobile holder with anti-skid silicon pads.\"",
+      "source_id": "chunk-5fb9ea84ac0fb7fa80ef80162ec2fafe"
+    },
+    {
+      "id": "SAMSUNG",
+      "entity_type": "ORGANIZATION",
+      "description": "\"Samsung is a brand that manufactures the Galaxy S21, a premium smartphone with advanced features.\"",
+      "source_id": "chunk-5fb9ea84ac0fb7fa80ef80162ec2fafe"
+    },
+    {
+      "id": "OFFICE DESKS",
+      "entity_type": "GEO",
+      "description": "\"Office Desks refer to the typical location where the Modesk Universal Mobile Holder is used, providing a convenient place for smartphone viewing.\"",
+      "source_id": "chunk-7b32e0e6e84c5b591623650c520a6204"
+    },
+    {
+      "id": "BAJAJ FINSERV EMI CARD",
+      "entity_type": "ORGANIZATION",
+      "description": "\"Bajaj Finserv EMI Card is a financial product that offers No Cost EMI on cart values above ₹2999.\"",
+      "source_id": "chunk-7b32e0e6e84c5b591623650c520a6204"
+    },
+    {
+      "id": "EXPRO CHARGING PAD IMAGE 2",
+      "entity_type": "EVENT",
+      "description": "\"Another image of the Expro Charging Pad, highlighting its design and features.\"",
+      "source_id": "chunk-5fb9ea84ac0fb7fa80ef80162ec2fafe"
+    },
+    {
+      "id": "FLIPKART AXIS BANK CREDIT CARD",
+      "entity_type": "ORGANIZATION",
+      "description": "\"Flipkart Axis Bank Credit Card is a financial product offering 5% unlimited cashback on purchases.\"<SEP>\"The Flipkart Axis Bank Credit Card offers 5% unlimited cashback on purchases made on Flipkart.\"",
+      "source_id": "chunk-7b32e0e6e84c5b591623650c520a6204<SEP>chunk-5fb9ea84ac0fb7fa80ef80162ec2fafe"
+    },
+    {
+      "id": "EXPRO",
+      "entity_type": "ORGANIZATION",
+      "description": "\"Expro is a brand that manufactures the Charging Pad with Glossy Look and Strong Body Mobile Holder.\"",
+      "source_id": "chunk-5fb9ea84ac0fb7fa80ef80162ec2fafe"
+    },
+    {
+      "id": "SMARTPHONE",
+      "entity_type": "EVENT",
+      "description": "\"Smartphone refers to the device that the Modesk Universal Mobile Holder is designed to hold securely.\"",
+      "source_id": "chunk-7b32e0e6e84c5b591623650c520a6204"
+    },
+    {
+      "id": "MODESK UNIVERSAL MOBILE HOLDER",
+      "entity_type": "EVENT",
+      "description": "\"Modesk Universal Mobile Holder is a product designed to securely hold smartphones on desks, featuring a stainless steel body, rust and corrosion proof, antiskid silicon pads, lightweight and angular design for perfect viewing angle.\"",
+      "source_id": "chunk-7b32e0e6e84c5b591623650c520a6204"
+    },
+    {
+      "id": "EXPRO CHARGING PAD IMAGE 3",
+      "entity_type": "EVENT",
+      "description": "\"A third image of the Expro Charging Pad, showing its foldable design.\"",
+      "source_id": "chunk-5fb9ea84ac0fb7fa80ef80162ec2fafe"
+    },
+    {
+      "id": "GALAXY BUDS",
+      "entity_type": "EVENT",
+      "description": "\"Galaxy Buds are wireless earbuds offered for free with the purchase of the Samsung Galaxy S21 on Amazon.\"",
+      "source_id": "chunk-5fb9ea84ac0fb7fa80ef80162ec2fafe"
+    },
+    {
+      "id": "PORTRONICS",
+      "entity_type": "ORGANIZATION",
+      "description": "\"Portronics is a brand that manufactures the POR-122 MoDesk Universal Mobile Holder, designed for office desks.\"<SEP>\"Portronics is the manufacturer of the Modesk Universal Mobile Holder, known for its innovative and practical tech accessories.\"",
+      "source_id": "chunk-7b32e0e6e84c5b591623650c520a6204<SEP>chunk-5fb9ea84ac0fb7fa80ef80162ec2fafe"
+    },
+    {
+      "id": "INCOMING CALLS",
+      "entity_type": "EVENT",
+      "description": "\"Incoming Calls refer to the phone calls that can be easily and privately viewed on a smartphone held by the Modesk Universal Mobile Holder.\"",
+      "source_id": "chunk-7b32e0e6e84c5b591623650c520a6204"
+    },
+    {
+      "id": "STAINLESS STEEL BODY",
+      "entity_type": "EVENT",
+      "description": "\"Stainless Steel Body refers to the material used in the Modesk Universal Mobile Holder, providing durability and resistance to rust and corrosion.\"",
+      "source_id": "chunk-7b32e0e6e84c5b591623650c520a6204"
+    },
+    {
+      "id": "EXPRO CHARGING PAD IMAGE 4",
+      "entity_type": "EVENT",
+      "description": "\"A fourth image of the Expro Charging Pad, emphasizing its hanging type mount.\"",
+      "source_id": "chunk-5fb9ea84ac0fb7fa80ef80162ec2fafe"
+    },
+    {
+      "id": "STRIFF FLEXIBLE MOBILE STAND IMAGE",
+      "entity_type": "EVENT",
+      "description": "\"An image of the STRIFF Flexible Mobile Stand, showcasing its design and features.\"",
+      "source_id": "chunk-5fb9ea84ac0fb7fa80ef80162ec2fafe"
+    },
+    {
+      "id": "STRIFF FLEXIBLE MOBILE STAND",
+      "entity_type": "EVENT",
+      "description": "\"The STRIFF Flexible Mobile Stand is a product featuring 360-degree rotation and a heavy-duty clamp, suitable for all smartphones.\"",
+      "source_id": "chunk-5fb9ea84ac0fb7fa80ef80162ec2fafe"
+    },
+    {
+      "id": "FLIPKART",
+      "entity_type": "ORGANIZATION",
+      "description": "\"Flipkart is an e-commerce platform where the Modesk Universal Mobile Holder is available for purchase.\"<SEP>\"Flipkart is an e-commerce platform where various products, including mobile holders, are sold.\"",
+      "source_id": "chunk-7b32e0e6e84c5b591623650c520a6204<SEP>chunk-5fb9ea84ac0fb7fa80ef80162ec2fafe"
+    },
+    {
+      "id": "MESSAGES",
+      "entity_type": "EVENT",
+      "description": "\"Messages refer to the text communications that can be easily and privately responded to on a smartphone held by the Modesk Universal Mobile Holder.\"",
+      "source_id": "chunk-7b32e0e6e84c5b591623650c520a6204"
+    },
+    {
+      "id": "ANTISKID SILICON PADS",
+      "entity_type": "EVENT",
+      "description": "\"Antiskid Silicon Pads are features of the Modesk Universal Mobile Holder that prevent slipping and ensure stability.\"",
+      "source_id": "chunk-7b32e0e6e84c5b591623650c520a6204"
+    },
+    {
+      "id": "EXPRO CHARGING PAD IMAGE 5",
+      "entity_type": "EVENT",
+      "description": "\"A fifth image of the Expro Charging Pad, illustrating its plastic material.\"",
+      "source_id": "chunk-5fb9ea84ac0fb7fa80ef80162ec2fafe"
+    },
+    {
+      "id": "SAMSUNG GALAXY S21 FRONT IMAGE",
+      "entity_type": "EVENT",
+      "description": "\"An image of the front view of the Samsung Galaxy S21, highlighting its display.\"",
+      "source_id": "chunk-5fb9ea84ac0fb7fa80ef80162ec2fafe"
+    },
+    {
+      "id": "KAMRUP METRO",
+      "entity_type": "GEO",
+      "description": "\"Kamrup Metro is a district in Assam, mentioned in the context of a work in progress.\"",
+      "source_id": "chunk-9abc868d600221904ef89e32979e27fb"
+    },
+    {
+      "id": "UTTARA KANNADA",
+      "entity_type": "GEO",
+      "description": "\"Uttara Kannada is a district in Karnataka where Amdalli Karwar is located.\"",
+      "source_id": "chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "id": "JABALPUR",
+      "entity_type": "GEO",
+      "description": "\"Jabalpur is a city in the state of Madhya Pradesh, India.\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6"
+    },
+    {
+      "id": "BUDDEPU MADHUSUDHANA REDDY",
+      "entity_type": "PERSON",
+      "description": "\"Buddepu Madhusudhana Reddy is an individual associated with a specific task or location in Andhra Pradesh.\"",
+      "source_id": "chunk-9b051e9ee114c46cd0d34b3b30cae991"
+    },
+    {
+      "id": "T-CSCT-WF-IN-2263-2735",
+      "entity_type": "EVENT",
+      "description": "\"T-CSCT-WF-IN-2263-2735 is an event code mentioned in the context of issues in Uttar Pradesh.\"",
+      "source_id": "chunk-d463eb15f500e72bd1865277d8159a51"
+    },
+    {
+      "id": "SANJAY BHATNAGAR",
+      "entity_type": "PERSON",
+      "description": "\"Sanjay Bhatnagar is an individual associated with a work in progress in Himachal Pradesh.\"",
+      "source_id": "chunk-9abc868d600221904ef89e32979e27fb"
+    },
+    {
+      "id": "SIKKIM",
+      "entity_type": "GEO",
+      "description": "\"Sikkim is a state in northeastern India where Rick Talukder is associated with an access issue.\"<SEP>\"Sikkim is a state in northeastern India.\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6<SEP>chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "id": "NAND LAL",
+      "entity_type": "PERSON",
+      "description": "\"NAND LAL is an individual associated with a specific task or location in Himachal Pradesh.\"<SEP>\"Nand Lal is an individual associated with Himachal Pradesh.\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6<SEP>chunk-9b051e9ee114c46cd0d34b3b30cae991"
+    },
+    {
+      "id": "NTPC SIMHADRI",
+      "entity_type": "ORGANIZATION",
+      "description": "\"NTPC SIMHADRI is a location in Visakhapatnam, Andhra Pradesh, mentioned in the text.\"",
+      "source_id": "chunk-9b051e9ee114c46cd0d34b3b30cae991"
+    },
+    {
+      "id": "OFFICE OF THE 5TH BATTALI",
+      "entity_type": "ORGANIZATION",
+      "description": "\"OFFICE OF THE 5TH BATTALI is an organization located in Kolkata, West Bengal, facing access and gate pass issues.\"",
+      "source_id": "chunk-d463eb15f500e72bd1865277d8159a51"
+    },
+    {
+      "id": "NARENGI TINALI",
+      "entity_type": "GEO",
+      "description": "\"Narengi Tinali is a location in Guwahati, Assam, mentioned in the context of a work in progress.\"",
+      "source_id": "chunk-9abc868d600221904ef89e32979e27fb"
+    },
+    {
+      "id": "SBI ATM AOC VENG",
+      "entity_type": "ORGANIZATION",
+      "description": "\"SBI ATM AOC Veng is an ATM location in Serchhip, Mizoram where Rosen Kumar Singha is associated with a device not being found.\"",
+      "source_id": "chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "id": "SAHIBZADA AJIT SINGH NAGAR",
+      "entity_type": "GEO",
+      "description": "\"Sahibzada Ajit Singh Nagar, also known as Mohali, is a city in Punjab, India.\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6"
+    },
+    {
+      "id": "OLD NH 5 ROAD",
+      "entity_type": "GEO",
+      "description": "\"OLD NH 5 road is a road in Srikakulam, Andhra Pradesh, mentioned in the text.\"",
+      "source_id": "chunk-9b051e9ee114c46cd0d34b3b30cae991"
+    },
+    {
+      "id": "T-CSCT-WF-IN-2263-2817",
+      "entity_type": "EVENT",
+      "description": "\"T-CSCT-WF-IN-2263-2817 is an event code mentioned in the context of issues in Uttar Pradesh.\"",
+      "source_id": "chunk-d463eb15f500e72bd1865277d8159a51"
+    },
+    {
+      "id": "PUNJAB",
+      "entity_type": "GEO",
+      "description": "\"Punjab is a state in India, mentioned in the context of a work in progress related to a ticket device.\"",
+      "source_id": "chunk-9abc868d600221904ef89e32979e27fb"
+    },
+    {
+      "id": "UTTAR PRADESH",
+      "entity_type": "GEO",
+      "description": "\"Uttar Pradesh is a state in India mentioned in the text, indicating various locations within the state.\"<SEP>\"Uttar Pradesh is a state in India, mentioned multiple times in the text.\"<SEP>\"Uttar Pradesh is a state in northern India where Salah Uddin, Ajeet Kumar Chaudhary, and Sujeet Agrahari are associated with various issues.\"<SEP>\"Uttar Pradesh is a state in northern India where service activities are taking place.\"<SEP>\"Uttar Pradesh is a state in northern India.\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6<SEP>chunk-9b051e9ee114c46cd0d34b3b30cae991<SEP>chunk-d463eb15f500e72bd1865277d8159a51<SEP>chunk-e3bd956d1969fa9dc489398263b7d394<SEP>chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "id": "CHHATTISGARH",
+      "entity_type": "GEO",
+      "description": "\"Chhattisgarh is a state in central India.\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6"
+    },
+    {
+      "id": "PARACHUTE REGEMENT CENTRE",
+      "entity_type": "ORGANIZATION",
+      "description": "\"PARACHUTE REGEMENT CENTRE is a location in Bangalore, Karnataka, mentioned in the text.\"",
+      "source_id": "chunk-9b051e9ee114c46cd0d34b3b30cae991"
+    },
+    {
+      "id": "SBI BETIAHATA BRANCH",
+      "entity_type": "ORGANIZATION",
+      "description": "\"SBI BETIAHATA BRANCH is a branch of the State Bank of India located near a petrol pump in Gorakhpur, Uttar Pradesh.\"",
+      "source_id": "chunk-d463eb15f500e72bd1865277d8159a51"
+    },
+    {
+      "id": "WARANGAL DIST",
+      "entity_type": "GEO",
+      "description": "\"Warangal Dist is a district in Telangana, mentioned in the context of a work in progress.\"",
+      "source_id": "chunk-9abc868d600221904ef89e32979e27fb"
+    },
+    {
+      "id": "AOC VENG",
+      "entity_type": "GEO",
+      "description": "\"AOC Veng is a location in Serchhip, Mizoram where SBI ATM AOC Veng is situated.\"",
+      "source_id": "chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "id": "TEZPUR",
+      "entity_type": "GEO",
+      "description": "\"Tezpur is a city in the state of Assam, India.\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6"
+    },
+    {
+      "id": "BALIGAON JN",
+      "entity_type": "GEO",
+      "description": "\"BALIGAON JN is a junction in Srikakulam, Andhra Pradesh, mentioned in the text.\"",
+      "source_id": "chunk-9b051e9ee114c46cd0d34b3b30cae991"
+    },
+    {
+      "id": "T-CSCT-WF-IN-2263-2930",
+      "entity_type": "EVENT",
+      "description": "\"T-CSCT-WF-IN-2263-2930 is an event code mentioned in the context of issues in Uttar Pradesh.\"",
+      "source_id": "chunk-d463eb15f500e72bd1865277d8159a51"
+    },
+    {
+      "id": "SUKHJEET SINGH",
+      "entity_type": "PERSON",
+      "description": "\"Sukhjeet Singh is an individual associated with a work in progress in Punjab.\"",
+      "source_id": "chunk-9abc868d600221904ef89e32979e27fb"
+    },
+    {
+      "id": "JHARKHAND",
+      "entity_type": "GEO",
+      "description": "\"Jharkhand is a state in India, mentioned multiple times in the text.\"<SEP>\"Jharkhand is a state in eastern India where Raj Kumar Pandit is associated with a device not being delivered.\"",
+      "source_id": "chunk-d463eb15f500e72bd1865277d8159a51<SEP>chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "id": "NAITIK MESHRAM",
+      "entity_type": "PERSON",
+      "description": "\"Naitik Meshram is an individual associated with Chhattisgarh.\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6"
+    },
+    {
+      "id": "ARMY ESTABLISHMENT J C NAGR",
+      "entity_type": "ORGANIZATION",
+      "description": "\"ARMY ESTABLISHMENT J C NAGR is a location in Bangalore, Karnataka, mentioned in the text.\"",
+      "source_id": "chunk-9b051e9ee114c46cd0d34b3b30cae991"
+    },
+    {
+      "id": "DHIRENDRA KUMAR YADAV",
+      "entity_type": "PERSON",
+      "description": "\"Dhirendra Kumar Yadav is a person mentioned in the context of a device issue in Allahabad, Uttar Pradesh.\"",
+      "source_id": "chunk-d463eb15f500e72bd1865277d8159a51"
+    },
+    {
+      "id": "NGOS COLONY",
+      "entity_type": "GEO",
+      "description": "\"NGOs Colony is a location in Warangal, Telangana, mentioned in the context of a work in progress.\"",
+      "source_id": "chunk-9abc868d600221904ef89e32979e27fb"
+    },
+    {
+      "id": "SERCHHIP",
+      "entity_type": "GEO",
+      "description": "\"Serchhip is a district in Mizoram where AOC Veng and SBI ATM AOC Veng are located.\"",
+      "source_id": "chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "id": "CACHAR",
+      "entity_type": "GEO",
+      "description": "\"Cachar is a district in the state of Assam, India.\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6"
+    },
+    {
+      "id": "BALIGAN JN",
+      "entity_type": "GEO",
+      "description": "\"BALIGAN JN is a junction in Srikakulam, Andhra Pradesh, mentioned in the text.\"",
+      "source_id": "chunk-9b051e9ee114c46cd0d34b3b30cae991"
+    },
+    {
+      "id": "T-CSCT-WF-IN-2263-2979",
+      "entity_type": "EVENT",
+      "description": "\"T-CSCT-WF-IN-2263-2979 is an event code mentioned in the context of issues in Uttarakhand.\"",
+      "source_id": "chunk-d463eb15f500e72bd1865277d8159a51"
+    },
+    {
+      "id": "BATHINDA CANTT",
+      "entity_type": "GEO",
+      "description": "\"Bathinda Cantt is a location in Punjab, mentioned in the context of a work in progress.\"",
+      "source_id": "chunk-9abc868d600221904ef89e32979e27fb"
+    },
+    {
+      "id": "KERALA",
+      "entity_type": "GEO",
+      "description": "\"Kerala is a state in southern India where Prince Prince is associated with an engineer visiting a site but not finding the address.\"",
+      "source_id": "chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "id": "BHARAT SOLANKI",
+      "entity_type": "PERSON",
+      "description": "\"Bharat Solanki is an individual associated with Rajasthan.\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6"
+    },
+    {
+      "id": "ANANTAPUR",
+      "entity_type": "GEO",
+      "description": "\"Anantapur is a city in Andhra Pradesh, India, mentioned in the text.\"",
+      "source_id": "chunk-9b051e9ee114c46cd0d34b3b30cae991"
+    },
+    {
+      "id": "ALLAHABAD",
+      "entity_type": "GEO",
+      "description": "\"Allahabad is a city in Uttar Pradesh, India, mentioned in the context of a device issue.\"",
+      "source_id": "chunk-d463eb15f500e72bd1865277d8159a51"
+    },
+    {
+      "id": "HANAMKONDA CHOWRASTA",
+      "entity_type": "GEO",
+      "description": "\"Hanamkonda Chowrasta is a location in Warangal, Telangana, mentioned in the context of a work in progress.\"",
+      "source_id": "chunk-9abc868d600221904ef89e32979e27fb"
+    },
+    {
+      "id": "AOC COMPLEX",
+      "entity_type": "GEO",
+      "description": "\"AOC Complex is a location in Haflong, Dima Hasao, Assam where Rajan Das is associated with a device not being found.\"",
+      "source_id": "chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "id": "NHPC COLONY, BALUWATAR",
+      "entity_type": "GEO",
+      "description": "\"NHPC Colony, Baluwatar is a specific location in East District, Sikkim.\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6"
+    },
+    {
+      "id": "CHAMBA",
+      "entity_type": "GEO",
+      "description": "\"Chamba is a city in Himachal Pradesh, India, mentioned in the text.\"",
+      "source_id": "chunk-9b051e9ee114c46cd0d34b3b30cae991"
+    },
+    {
+      "id": "HIMACHAL PRADESH",
+      "entity_type": "GEO",
+      "description": "\"Himachal Pradesh is a state in India mentioned in the text, indicating various locations within the state.\"<SEP>\"Himachal Pradesh is a state in India, mentioned in the context of a work in progress related to a ticket device.\"<SEP>\"Himachal Pradesh is a state in northern India where service activities are taking place.\"<SEP>\"Himachal Pradesh is a state in northern India.\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6<SEP>chunk-9b051e9ee114c46cd0d34b3b30cae991<SEP>chunk-9abc868d600221904ef89e32979e27fb<SEP>chunk-e3bd956d1969fa9dc489398263b7d394"
+    },
+    {
+      "id": "T-CSCT-WF-IN-2263-2988",
+      "entity_type": "EVENT",
+      "description": "\"T-CSCT-WF-IN-2263-2988 is an event code mentioned in the context of issues in Delhi.\"",
+      "source_id": "chunk-d463eb15f500e72bd1865277d8159a51"
+    },
+    {
+      "id": "ASSAM",
+      "entity_type": "GEO",
+      "description": "\"Assam is a state in India, mentioned in the context of a work in progress related to a ticket device.\"<SEP>\"Assam is a state in northeastern India where Rajan Das is associated with a device not being found.\"<SEP>\"Assam is a state in northeastern India where service activities are taking place.\"<SEP>\"Assam is a state in northeastern India.\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6<SEP>chunk-9abc868d600221904ef89e32979e27fb<SEP>chunk-e3bd956d1969fa9dc489398263b7d394<SEP>chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "id": "KARNATAKA",
+      "entity_type": "GEO",
+      "description": "\"Karnataka is a state in India mentioned in the text, indicating various locations within the state.\"<SEP>\"Karnataka is a state in India, mentioned in the context of a device issue.\"<SEP>\"Karnataka is a state in southern India where service activities are taking place.\"<SEP>\"Karnataka is a state in southwestern India where Shabbir Mujawar, Khajapeer Husensab Shahapur, and Lokesha Kashimata are associated with various issues.\"<SEP>\"Karnataka is a state in southwestern India.\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6<SEP>chunk-9b051e9ee114c46cd0d34b3b30cae991<SEP>chunk-d463eb15f500e72bd1865277d8159a51<SEP>chunk-e3bd956d1969fa9dc489398263b7d394<SEP>chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "id": "SUNEEL KUMAR",
+      "entity_type": "PERSON",
+      "description": "\"Suneel Kumar is an individual associated with Uttar Pradesh.\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6"
+    },
+    {
+      "id": "GAYATRI COMPLEX",
+      "entity_type": "ORGANIZATION",
+      "description": "\"GAYATRI COMPLEX is a location in Anantapur, Andhra Pradesh, mentioned in the text.\"",
+      "source_id": "chunk-9b051e9ee114c46cd0d34b3b30cae991"
+    },
+    {
+      "id": "P V SOMASHEKHAR RAO",
+      "entity_type": "PERSON",
+      "description": "\"P V Somashekhar Rao is a person mentioned in the context of a device migration in Modinagar, Uttar Pradesh.\"",
+      "source_id": "chunk-d463eb15f500e72bd1865277d8159a51"
+    },
+    {
+      "id": "SRI RK COMPLEX",
+      "entity_type": "GEO",
+      "description": "\"Sri RK Complex is a location in Warangal, Telangana, mentioned in the context of a work in progress.\"",
+      "source_id": "chunk-9abc868d600221904ef89e32979e27fb"
+    },
+    {
+      "id": "HAFLONG",
+      "entity_type": "GEO",
+      "description": "\"Haflong is a town in Dima Hasao, Assam where AOC Complex is located.\"",
+      "source_id": "chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "id": "KAMIL KHAN",
+      "entity_type": "PERSON",
+      "description": "\"Kamil Khan is an individual associated with multiple tasks or locations in Madhya Pradesh.\"",
+      "source_id": "chunk-9b051e9ee114c46cd0d34b3b30cae991"
+    },
+    {
+      "id": "JOGENDRA VISHWAKARMA",
+      "entity_type": "PERSON",
+      "description": "\"Jogendra Vishwakarma is an engineer involved in service activities in Madhya Pradesh.\"",
+      "source_id": "chunk-e3bd956d1969fa9dc489398263b7d394"
+    },
+    {
+      "id": "T-CSCT-WF-IN-2263-2990",
+      "entity_type": "EVENT",
+      "description": "\"T-CSCT-WF-IN-2263-2990 is an event code mentioned in the context of issues in Bihar.\"",
+      "source_id": "chunk-d463eb15f500e72bd1865277d8159a51"
+    },
+    {
+      "id": "MIZORAM",
+      "entity_type": "GEO",
+      "description": "\"Mizoram is a state in northeastern India where Rosen Kumar Singha is associated with a device not being found.\"<SEP>\"Mizoram is a state in northeastern India where service activities are taking place.\"",
+      "source_id": "chunk-e3bd956d1969fa9dc489398263b7d394<SEP>chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "id": "MAHIBUL HOQUE",
+      "entity_type": "PERSON",
+      "description": "\"Mahibul Hoque is an individual associated with a work in progress in Assam.\"",
+      "source_id": "chunk-9abc868d600221904ef89e32979e27fb"
+    },
+    {
+      "id": "CHINTA DURGAPRASAD",
+      "entity_type": "PERSON",
+      "description": "\"CHINTA DURGAPRASAD is an individual associated with a specific task or location in Andhra Pradesh.\"<SEP>\"Chinta Durgaprasad is an engineer involved in service activities in Andhra Pradesh.\"<SEP>\"Chinta Durgaprasad is an individual associated with Andhra Pradesh.\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6<SEP>chunk-9b051e9ee114c46cd0d34b3b30cae991<SEP>chunk-e3bd956d1969fa9dc489398263b7d394"
+    },
+    {
+      "id": "VAISHALI",
+      "entity_type": "GEO",
+      "description": "\"Vaishali is a city in Bihar, India, mentioned in the text.\"",
+      "source_id": "chunk-9b051e9ee114c46cd0d34b3b30cae991"
+    },
+    {
+      "id": "IOC PETROL PUMP",
+      "entity_type": "ORGANIZATION",
+      "description": "\"IOC PETROL PUMP is a petrol pump in Modinagar, Uttar Pradesh, mentioned in the context of a device migration.\"",
+      "source_id": "chunk-d463eb15f500e72bd1865277d8159a51"
+    },
+    {
+      "id": "FLOWER MARKET",
+      "entity_type": "GEO",
+      "description": "\"Flower Market is a location in Warangal, Telangana, mentioned in the context of a work in progress.\"",
+      "source_id": "chunk-9abc868d600221904ef89e32979e27fb"
+    },
+    {
+      "id": "DIMA HASAO",
+      "entity_type": "GEO",
+      "description": "\"Dima Hasao is a district in Assam where Haflong and AOC Complex are located.\"",
+      "source_id": "chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "id": "MALLIDI VENKATESH",
+      "entity_type": "PERSON",
+      "description": "\"MALLIDI VENKATESH is an individual associated with a specific task or location in Andhra Pradesh.\"",
+      "source_id": "chunk-9b051e9ee114c46cd0d34b3b30cae991"
+    },
+    {
+      "id": "RBI COLONY, ARERA COLONY, BHOPAL",
+      "entity_type": "GEO",
+      "description": "\"RBI Colony, Arera Colony, Bhopal is a location in Madhya Pradesh where service activities are being conducted.\"",
+      "source_id": "chunk-e3bd956d1969fa9dc489398263b7d394"
+    },
+    {
+      "id": "T-CSCT-WF-IN-2263-3008",
+      "entity_type": "EVENT",
+      "description": "\"T-CSCT-WF-IN-2263-3008 is an event code mentioned in the context of issues in Jharkhand.\"",
+      "source_id": "chunk-d463eb15f500e72bd1865277d8159a51"
+    },
+    {
+      "id": "GUWAHATI",
+      "entity_type": "GEO",
+      "description": "\"Guwahati is a city in Assam, mentioned in the context of a work in progress.\"",
+      "source_id": "chunk-9abc868d600221904ef89e32979e27fb"
+    },
+    {
+      "id": "ANDHRA PRADESH",
+      "entity_type": "GEO",
+      "description": "\"Andhra Pradesh is a state in India mentioned multiple times in the text, indicating various locations within the state.\"<SEP>\"Andhra Pradesh is a state in southeastern India where C Md Rafeeq Ahmed and Bhagavan D are associated with various issues.\"<SEP>\"Andhra Pradesh is a state in southeastern India where service activities are taking place.\"<SEP>\"Andhra Pradesh is a state in southeastern India.\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6<SEP>chunk-9b051e9ee114c46cd0d34b3b30cae991<SEP>chunk-e3bd956d1969fa9dc489398263b7d394<SEP>chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "id": "MOHAMMED SAAD",
+      "entity_type": "PERSON",
+      "description": "\"Mohammed Saad is an engineer involved in service activities in Karnataka.\"<SEP>\"Mohammed Saad is an individual associated with Karnataka.\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6<SEP>chunk-e3bd956d1969fa9dc489398263b7d394"
+    },
+    {
+      "id": "CINEMA ROAD",
+      "entity_type": "GEO",
+      "description": "\"CINEMA ROAD is a road in Vaishali, Bihar, mentioned in the text.\"",
+      "source_id": "chunk-9b051e9ee114c46cd0d34b3b30cae991"
+    },
+    {
+      "id": "MODINAGAR",
+      "entity_type": "GEO",
+      "description": "\"Modinagar is a city in Uttar Pradesh, India, mentioned in the context of a device migration.\"",
+      "source_id": "chunk-d463eb15f500e72bd1865277d8159a51"
+    },
+    {
+      "id": "HINDAUN DARWAZA",
+      "entity_type": "GEO",
+      "description": "\"Hindaun Darwaza is a location in Karauli, Rajasthan, mentioned in the context of a work in progress.\"",
+      "source_id": "chunk-9abc868d600221904ef89e32979e27fb"
+    },
+    {
+      "id": "KTPP",
+      "entity_type": "ORGANIZATION",
+      "description": "\"KTPP is an organization in Warangal, Telangana where Kodam Sunil Kumar is associated with access issues and permission not being granted.\"",
+      "source_id": "chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "id": "BIHAR",
+      "entity_type": "GEO",
+      "description": "\"Bihar is a state in India mentioned multiple times in the text, indicating various locations within the state.\"<SEP>\"Bihar is a state in India, mentioned multiple times in the text.\"",
+      "source_id": "chunk-9b051e9ee114c46cd0d34b3b30cae991<SEP>chunk-d463eb15f500e72bd1865277d8159a51"
+    },
+    {
+      "id": "SAIKHMAKAWN, AIZAWL",
+      "entity_type": "GEO",
+      "description": "\"Saikhmakawn, Aizawl is a location in Mizoram where service activities are being conducted.\"",
+      "source_id": "chunk-e3bd956d1969fa9dc489398263b7d394"
+    },
+    {
+      "id": "T-CSCT-WF-IN-2263-3017",
+      "entity_type": "EVENT",
+      "description": "\"T-CSCT-WF-IN-2263-3017 is an event code mentioned in the context of issues in Bihar.\"",
+      "source_id": "chunk-d463eb15f500e72bd1865277d8159a51"
+    },
+    {
+      "id": "ODISHA",
+      "entity_type": "GEO",
+      "description": "\"Odisha is a state in eastern India where Ramsunder Sunani is associated with a key not being available.\"",
+      "source_id": "chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "id": "SYED SABEER",
+      "entity_type": "PERSON",
+      "description": "\"Syed Sabeer is an individual associated with Karnataka.\"<SEP>\"Syed Sabeer is an individual associated with a specific task or location in Karnataka.\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6<SEP>chunk-9b051e9ee114c46cd0d34b3b30cae991"
+    },
+    {
+      "id": "PREMSILA MARKET",
+      "entity_type": "ORGANIZATION",
+      "description": "\"PREMSILA MARKET is a location in Vaishali, Bihar, mentioned in the text.\"",
+      "source_id": "chunk-9b051e9ee114c46cd0d34b3b30cae991"
+    },
+    {
+      "id": "MANISH ANTHWAL",
+      "entity_type": "PERSON",
+      "description": "\"Manish Anthwal is a person mentioned in the context of a site renovation in Dehradun, Uttarakhand.\"",
+      "source_id": "chunk-d463eb15f500e72bd1865277d8159a51"
+    },
+    {
+      "id": "KARAULI",
+      "entity_type": "GEO",
+      "description": "\"Karauli is a district in Rajasthan, mentioned in the context of a work in progress.\"",
+      "source_id": "chunk-9abc868d600221904ef89e32979e27fb"
+    },
+    {
+      "id": "RAILWAY STATION FATEHPUR",
+      "entity_type": "GEO",
+      "description": "\"Railway Station Fatehpur is a location in Fatehpur, Uttar Pradesh where Sujeet Agrahari is associated with a device not being available and not received.\"",
+      "source_id": "chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "id": "UTAM KUMAR",
+      "entity_type": "PERSON",
+      "description": "\"Utam Kumar is an individual associated with multiple tasks or locations in Bihar.\"",
+      "source_id": "chunk-9b051e9ee114c46cd0d34b3b30cae991"
+    },
+    {
+      "id": "KAPPERA SANDEEP REDDY",
+      "entity_type": "PERSON",
+      "description": "\"Kappera Sandeep Reddy is an engineer involved in service activities in Telangana.\"",
+      "source_id": "chunk-e3bd956d1969fa9dc489398263b7d394"
+    },
+    {
+      "id": "T-CSCT-WF-IN-2263-3092",
+      "entity_type": "EVENT",
+      "description": "\"T-CSCT-WF-IN-2263-3092 is an event code mentioned in the context of issues in Karnataka.\"",
+      "source_id": "chunk-d463eb15f500e72bd1865277d8159a51"
+    },
+    {
+      "id": "KAMAKHYA TEMPLE",
+      "entity_type": "GEO",
+      "description": "\"Kamakhya Temple is a significant location in Assam, mentioned in the context of a work in progress.\"",
+      "source_id": "chunk-9abc868d600221904ef89e32979e27fb"
+    },
+    {
+      "id": "NHPC COLONY",
+      "entity_type": "GEO",
+      "description": "\"NHPC Colony is a location in Baluwatar, East District, Sikkim where Rick Talukder is associated with an access issue.\"",
+      "source_id": "chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "id": "MADHYA PRADESH",
+      "entity_type": "GEO",
+      "description": "\"Madhya Pradesh is a state in India mentioned multiple times in the text, indicating various locations within the state.\"<SEP>\"Madhya Pradesh is a state in central India where service activities are taking place.\"<SEP>\"Madhya Pradesh is a state in central India.\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6<SEP>chunk-9b051e9ee114c46cd0d34b3b30cae991<SEP>chunk-e3bd956d1969fa9dc489398263b7d394"
+    },
+    {
+      "id": "BAGMALI",
+      "entity_type": "GEO",
+      "description": "\"BAGMALI is a location in Vaishali, Bihar, mentioned in the text.\"",
+      "source_id": "chunk-9b051e9ee114c46cd0d34b3b30cae991"
+    },
+    {
+      "id": "OFD RAIPUR",
+      "entity_type": "ORGANIZATION",
+      "description": "\"OFD RAIPUR is an organization in Dehradun, Uttarakhand, mentioned in the context of a site renovation.\"",
+      "source_id": "chunk-d463eb15f500e72bd1865277d8159a51"
+    },
+    {
+      "id": "STRAND ROAD",
+      "entity_type": "GEO",
+      "description": "\"Strand Road is a location in Kolkata, West Bengal, mentioned in the context of a work in progress.\"<SEP>\"Strand Road is a location in Kolkata, West Bengal, mentioned multiple times in the text.\"",
+      "source_id": "chunk-9abc868d600221904ef89e32979e27fb<SEP>chunk-d463eb15f500e72bd1865277d8159a51"
+    },
+    {
+      "id": "FATEHPUR",
+      "entity_type": "GEO",
+      "description": "\"Fatehpur is a city in Uttar Pradesh where Railway Station Fatehpur is located.\"",
+      "source_id": "chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "id": "PRAKASH SHARMA",
+      "entity_type": "PERSON",
+      "description": "\"Prakash Sharma is a person mentioned in the context of an ATM closure in Muzaffarpur, Bihar.\"<SEP>\"Prakash Sharma is an individual associated with a specific task or location in Bihar.\"",
+      "source_id": "chunk-9b051e9ee114c46cd0d34b3b30cae991<SEP>chunk-d463eb15f500e72bd1865277d8159a51"
+    },
+    {
+      "id": "PARADE GROUNDS, METRO STATION, HYDERABAD",
+      "entity_type": "GEO",
+      "description": "\"Parade Grounds, Metro Station, Hyderabad is a location in Telangana where service activities are being conducted.\"",
+      "source_id": "chunk-e3bd956d1969fa9dc489398263b7d394"
+    },
+    {
+      "id": "TELANGANA",
+      "entity_type": "GEO",
+      "description": "\"Telangana is a state in India, mentioned in the context of a work in progress related to a ticket device.\"<SEP>\"Telangana is a state in southern India where Kodam Sunil Kumar is associated with access issues and permission not being granted.\"<SEP>\"Telangana is a state in southern India where service activities are taking place.\"<SEP>\"Telangana is a state in southern India.\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6<SEP>chunk-9abc868d600221904ef89e32979e27fb<SEP>chunk-e3bd956d1969fa9dc489398263b7d394<SEP>chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "id": "BALUWATAR",
+      "entity_type": "GEO",
+      "description": "\"Baluwatar is a location in East District, Sikkim where NHPC Colony is situated.\"",
+      "source_id": "chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "id": "CHANDIGARH",
+      "entity_type": "GEO",
+      "description": "\"Chandigarh is a city and union territory in northern India.\"<SEP>\"Chandigarh is a union territory in northern India where service activities are taking place.\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6<SEP>chunk-e3bd956d1969fa9dc489398263b7d394"
+    },
+    {
+      "id": "HAJIPUR LALGANJ ROAD",
+      "entity_type": "GEO",
+      "description": "\"HAJIPUR LALGANJ ROAD is a road in Vaishali, Bihar, mentioned in the text.\"",
+      "source_id": "chunk-9b051e9ee114c46cd0d34b3b30cae991"
+    },
+    {
+      "id": "DEHRADUN",
+      "entity_type": "GEO",
+      "description": "\"Dehradun is a city in Uttarakhand, India, mentioned in the context of a site renovation.\"",
+      "source_id": "chunk-d463eb15f500e72bd1865277d8159a51"
+    },
+    {
+      "id": "NSCBI AIRPORT",
+      "entity_type": "GEO",
+      "description": "\"NSCBI Airport is a location in Kolkata, West Bengal, mentioned in the context of a work in progress.\"",
+      "source_id": "chunk-9abc868d600221904ef89e32979e27fb"
+    },
+    {
+      "id": "RAILWAY STATION ROAD",
+      "entity_type": "GEO",
+      "description": "\"Railway Station Road is a location in Kurnool District, Andhra Pradesh where C Md Rafeeq Ahmed is associated with a wrong address and ID not matching.\"",
+      "source_id": "chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "id": "RAVI JATAWAT",
+      "entity_type": "PERSON",
+      "description": "\"Ravi Jatawat is an individual associated with a specific task or location in Rajasthan.\"",
+      "source_id": "chunk-9b051e9ee114c46cd0d34b3b30cae991"
+    },
+    {
+      "id": "GOLCONDA X ROADS, HYDERABAD",
+      "entity_type": "GEO",
+      "description": "\"Golconda X Roads, Hyderabad is a location in Telangana where service activities are being conducted.\"",
+      "source_id": "chunk-e3bd956d1969fa9dc489398263b7d394"
+    },
+    {
+      "id": "KODAM SUNIL KUMAR",
+      "entity_type": "PERSON",
+      "description": "\"Kodam Sunil Kumar is an individual associated with Telangana.\"<SEP>\"Kodam Sunil Kumar is an individual associated with a work in progress in Telangana.\"<SEP>\"Kodam Sunil Kumar is an individual associated with access issues and permission not being granted at KTPP, Warangal, Telangana.\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6<SEP>chunk-9abc868d600221904ef89e32979e27fb<SEP>chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "id": "NHPC POWER STATION",
+      "entity_type": "ORGANIZATION",
+      "description": "\"NHPC Power Station is an organization located in East District, Sikkim where Rick Talukder is associated with an access issue.\"",
+      "source_id": "chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "id": "GOLDY K",
+      "entity_type": "PERSON",
+      "description": "\"Goldy K is an engineer involved in service activities in Himachal Pradesh.\"<SEP>\"Goldy K is an individual associated with Chandigarh.\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6<SEP>chunk-e3bd956d1969fa9dc489398263b7d394"
+    },
+    {
+      "id": "TAXI STAND",
+      "entity_type": "ORGANIZATION",
+      "description": "\"TAXI STAND is a location in Vaishali, Bihar, mentioned in the text.\"",
+      "source_id": "chunk-9b051e9ee114c46cd0d34b3b30cae991"
+    },
+    {
+      "id": "UTTARAKHAND",
+      "entity_type": "GEO",
+      "description": "\"Uttarakhand is a state in India, mentioned in the context of a site renovation.\"",
+      "source_id": "chunk-d463eb15f500e72bd1865277d8159a51"
+    },
+    {
+      "id": "DHAKURIA LEVEL CROSSING",
+      "entity_type": "GEO",
+      "description": "\"DHAKURIA LEVEL CROSSING is a specific location in Kolkata, West Bengal.\"<SEP>\"Dhakuria Level Crossing is a location in Kolkata, West Bengal, mentioned in the context of a work in progress.\"",
+      "source_id": "chunk-9abc868d600221904ef89e32979e27fb<SEP>chunk-d463eb15f500e72bd1865277d8159a51"
+    },
+    {
+      "id": "SBI CENTRE",
+      "entity_type": "ORGANIZATION",
+      "description": "\"SBI Centre is an organization located on Railway Station Road, Kurnool District, Andhra Pradesh.\"",
+      "source_id": "chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "id": "TAMIL NADU",
+      "entity_type": "GEO",
+      "description": "\"Tamil Nadu is a state in India mentioned in the text, indicating various locations within the state.\"",
+      "source_id": "chunk-9b051e9ee114c46cd0d34b3b30cae991"
+    },
+    {
+      "id": "MOKSHA TIMBER TRAIL, PARWANOO",
+      "entity_type": "GEO",
+      "description": "\"Moksha Timber Trail, Parwanoo is a location in Himachal Pradesh where service activities are being conducted.\"",
+      "source_id": "chunk-e3bd956d1969fa9dc489398263b7d394"
+    },
+    {
+      "id": "EAST DISTRICT",
+      "entity_type": "GEO",
+      "description": "\"East District is a district in Sikkim where NHPC Colony and NHPC Power Station are located.\"<SEP>\"East District is a district in the state of Sikkim, India.\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6<SEP>chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "id": "WARANGAL",
+      "entity_type": "GEO",
+      "description": "\"Warangal is a city in Telangana where KTPP is located.\"<SEP>\"Warangal is a city in Telangana, mentioned in the context of a work in progress.\"<SEP>\"Warangal is a city in the state of Telangana, India.\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6<SEP>chunk-9abc868d600221904ef89e32979e27fb<SEP>chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "id": "ANUPAM KALITA",
+      "entity_type": "PERSON",
+      "description": "\"Anupam Kalita is an individual associated with Assam.\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6"
+    },
+    {
+      "id": "SAMASTIPUR",
+      "entity_type": "GEO",
+      "description": "\"Samastipur is a city in Bihar, India, mentioned in the text.\"",
+      "source_id": "chunk-9b051e9ee114c46cd0d34b3b30cae991"
+    },
+    {
+      "id": "GOVIND SINGH",
+      "entity_type": "PERSON",
+      "description": "\"Govind Singh is a person mentioned in the context of an access issue at Parliament House in Delhi.\"",
+      "source_id": "chunk-d463eb15f500e72bd1865277d8159a51"
+    },
+    {
+      "id": "RICK TALUKDER",
+      "entity_type": "PERSON",
+      "description": "\"Rick Talukder is an individual associated with Sikkim.\"<SEP>\"Rick Talukder is an individual associated with an access issue at NHPC Colony, Baluwatar, NHPC Power Station, East District, Sikkim.\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6<SEP>chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "id": "KIMS HOSPITAL",
+      "entity_type": "ORGANIZATION",
+      "description": "\"KIMS Hospital is a hospital located near Railway Station Road, Kurnool District, Andhra Pradesh.\"",
+      "source_id": "chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "id": "SYED KHADER BASHA",
+      "entity_type": "PERSON",
+      "description": "\"Syed Khader Basha is an individual associated with a specific task or location in Tamil Nadu.\"",
+      "source_id": "chunk-9b051e9ee114c46cd0d34b3b30cae991"
+    },
+    {
+      "id": "ADHITHYAA V SHARMA",
+      "entity_type": "PERSON",
+      "description": "\"Adhithyaa V Sharma is an engineer involved in service activities in Karnataka.\"",
+      "source_id": "chunk-e3bd956d1969fa9dc489398263b7d394"
+    },
+    {
+      "id": "RAJASTHAN",
+      "entity_type": "GEO",
+      "description": "\"Rajasthan is a state in India mentioned multiple times in the text, indicating various locations within the state.\"<SEP>\"Rajasthan is a state in India, mentioned in the context of a work in progress related to a ticket device.\"<SEP>\"Rajasthan is a state in northern India.\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6<SEP>chunk-9b051e9ee114c46cd0d34b3b30cae991<SEP>chunk-9abc868d600221904ef89e32979e27fb"
+    },
+    {
+      "id": "PUNJABI MARKET",
+      "entity_type": "GEO",
+      "description": "\"Punjabi Market is a location in Bareilly, Uttar Pradesh where Salah Uddin is associated with a device not being available.\"",
+      "source_id": "chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "id": "POLICE LINE AKBARPUR",
+      "entity_type": "GEO",
+      "description": "\"POLICE LINE AKBARPUR is a location in Ambedkar Nagar, Uttar Pradesh, mentioned in the text.\"<SEP>\"Police Line Akbarpur is a specific location in Akbarpur, Ambedkar Nagar, Uttar Pradesh.\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6<SEP>chunk-9b051e9ee114c46cd0d34b3b30cae991"
+    },
+    {
+      "id": "CHANDAN CHOWK",
+      "entity_type": "GEO",
+      "description": "\"Chandan Chowk is a location in Samastipur, Bihar, mentioned in the text.\"",
+      "source_id": "chunk-9b051e9ee114c46cd0d34b3b30cae991"
+    },
+    {
+      "id": "PARLIAMENT HOUSE",
+      "entity_type": "ORGANIZATION",
+      "description": "\"Parliament House is a government building in Delhi, mentioned in the context of an access issue.\"",
+      "source_id": "chunk-d463eb15f500e72bd1865277d8159a51"
+    },
+    {
+      "id": "SALAH UDDIN",
+      "entity_type": "PERSON",
+      "description": "\"Salah Uddin is an individual associated with Uttar Pradesh.\"<SEP>\"Salah Uddin is an individual associated with a device not being available at Punjabi Market, Bareilly, Uttar Pradesh.\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6<SEP>chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "id": "JOHARAPURAM",
+      "entity_type": "GEO",
+      "description": "\"Joharapuram is a location in Kurnool District, Andhra Pradesh where Railway Station Road, SBI Centre, and KIMS Hospital are situated.\"",
+      "source_id": "chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "id": "RAVI BHATIA",
+      "entity_type": "PERSON",
+      "description": "\"Ravi Bhatia is an individual associated with a specific task or location in Rajasthan.\"",
+      "source_id": "chunk-9b051e9ee114c46cd0d34b3b30cae991"
+    },
+    {
+      "id": "AIR FORCE STATION JALAHALLI WEST, BANGALORE",
+      "entity_type": "GEO",
+      "description": "\"Air Force Station Jalahalli West, Bangalore is a location in Karnataka where service activities are being conducted.\"",
+      "source_id": "chunk-e3bd956d1969fa9dc489398263b7d394"
+    },
+    {
+      "id": "NARENDRA KUMAR",
+      "entity_type": "PERSON",
+      "description": "\"Narendra Kumar is an individual associated with a work in progress in Rajasthan.\"",
+      "source_id": "chunk-9abc868d600221904ef89e32979e27fb"
+    },
+    {
+      "id": "BAREILLY",
+      "entity_type": "GEO",
+      "description": "\"Bareilly is a city in Uttar Pradesh where Punjabi Market is located.\"",
+      "source_id": "chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "id": "POLICE LINE CHAMBA",
+      "entity_type": "GEO",
+      "description": "\"POLICE LINE CHAMBA is a location in Chamba, Himachal Pradesh, mentioned in the text.\"<SEP>\"Police Line Chamba is a specific location in Chamba, Himachal Pradesh.\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6<SEP>chunk-9b051e9ee114c46cd0d34b3b30cae991"
+    },
+    {
+      "id": "PATORI",
+      "entity_type": "GEO",
+      "description": "\"Patori is a location in Samastipur, Bihar, mentioned in the text.\"",
+      "source_id": "chunk-9b051e9ee114c46cd0d34b3b30cae991"
+    },
+    {
+      "id": "DELHI",
+      "entity_type": "GEO",
+      "description": "\"Delhi is the capital city of India, mentioned in the context of an access issue at Parliament House.\"",
+      "source_id": "chunk-d463eb15f500e72bd1865277d8159a51"
+    },
+    {
+      "id": "AJEET KUMAR CHAUDHARY",
+      "entity_type": "PERSON",
+      "description": "\"Ajeet Kumar Chaudhary is a person mentioned in the context of a mobile ATM repair in Uttar Pradesh.\"<SEP>\"Ajeet Kumar Chaudhary is an individual associated with access issues and a guard not being available at Saraswati Vidya Mandir School, Gorakhpur, Uttar Pradesh.\"",
+      "source_id": "chunk-d463eb15f500e72bd1865277d8159a51<SEP>chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "id": "KURNOOL DISTRICT",
+      "entity_type": "GEO",
+      "description": "\"Kurnool District is a district in Andhra Pradesh where Joharapuram and Railway Station Road are located.\"",
+      "source_id": "chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "id": "ADIL ZAFAR",
+      "entity_type": "PERSON",
+      "description": "\"Adil Zafar is an individual associated with a specific task or location in Uttar Pradesh.\"",
+      "source_id": "chunk-9b051e9ee114c46cd0d34b3b30cae991"
+    },
+    {
+      "id": "AIRFORCE TRAINING COMMAND CENTRE, BANGALORE",
+      "entity_type": "GEO",
+      "description": "\"Airforce Training Command Centre, Bangalore is a location in Karnataka where service activities are being conducted.\"",
+      "source_id": "chunk-e3bd956d1969fa9dc489398263b7d394"
+    },
+    {
+      "id": "WEST BENGAL",
+      "entity_type": "GEO",
+      "description": "\"West Bengal is a state in India, mentioned as the location for several events and issues.\"<SEP>\"West Bengal is a state in India, mentioned in the context of a work in progress related to a ticket device.\"<SEP>\"West Bengal is a state in eastern India where service activities are taking place.\"",
+      "source_id": "chunk-9abc868d600221904ef89e32979e27fb<SEP>chunk-d463eb15f500e72bd1865277d8159a51<SEP>chunk-e3bd956d1969fa9dc489398263b7d394"
+    },
+    {
+      "id": "SARASWATI VIDYA MANDIR SCHOOL",
+      "entity_type": "ORGANIZATION",
+      "description": "\"Saraswati Vidya Mandir School is a school in Gorakhpur, Uttar Pradesh where Ajeet Kumar Chaudhary is associated with access issues.\"",
+      "source_id": "chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "id": "PTS RAJNANDGAON",
+      "entity_type": "GEO",
+      "description": "\"PTS Rajnandgaon is a specific location in Rajnandgaon, Chhattisgarh.\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6"
+    },
+    {
+      "id": "AJMER",
+      "entity_type": "GEO",
+      "description": "\"Ajmer is a city in Rajasthan, India, mentioned in the text.\"",
+      "source_id": "chunk-9b051e9ee114c46cd0d34b3b30cae991"
+    },
+    {
+      "id": "RED CROSS BUILDING",
+      "entity_type": "ORGANIZATION",
+      "description": "\"RED CROSS BUILDING is a building in Muzaffarpur, Bihar, mentioned in the context of an ATM closure.\"",
+      "source_id": "chunk-d463eb15f500e72bd1865277d8159a51"
+    },
+    {
+      "id": "RAJ KUMAR PANDIT",
+      "entity_type": "PERSON",
+      "description": "\"Raj Kumar Pandit is an individual associated with a device not being delivered at Mirza Chowki, Sahibganj, Jharkhand.\"",
+      "source_id": "chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "id": "NITB",
+      "entity_type": "ORGANIZATION",
+      "description": "\"NITB is an organization located at Air Port, NAD Post, Visakhapatnam District, Andhra Pradesh where Bhagavan D is associated with needing bank permission.\"",
+      "source_id": "chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "id": "KRISHNA",
+      "entity_type": "GEO",
+      "description": "\"Krishna is a district in Andhra Pradesh, India, mentioned in the text.\"",
+      "source_id": "chunk-9b051e9ee114c46cd0d34b3b30cae991"
+    },
+    {
+      "id": "CHAMRAJPET, BANGALORE",
+      "entity_type": "GEO",
+      "description": "\"Chamrajpet, Bangalore is a location in Karnataka where service activities are being conducted.\"",
+      "source_id": "chunk-e3bd956d1969fa9dc489398263b7d394"
+    },
+    {
+      "id": "MOHAMMAD NIJAMUDDIN",
+      "entity_type": "PERSON",
+      "description": "\"Mohammad Nijamuddin is an engineer involved in service activities in West Bengal.\"<SEP>\"Mohammad Nijamuddin is an individual associated with a work in progress in West Bengal.\"",
+      "source_id": "chunk-9abc868d600221904ef89e32979e27fb<SEP>chunk-e3bd956d1969fa9dc489398263b7d394"
+    },
+    {
+      "id": "GANGES HOTEL CHOWRAHA",
+      "entity_type": "GEO",
+      "description": "\"Ganges Hotel Chowraha is a location in Gorakhpur, Uttar Pradesh near Saraswati Vidya Mandir School.\"",
+      "source_id": "chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "id": "BIKANER",
+      "entity_type": "GEO",
+      "description": "\"Bikaner is a city in the state of Rajasthan, India.\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6"
+    },
+    {
+      "id": "MOBILE ATM",
+      "entity_type": "ORGANIZATION",
+      "description": "\"MOBILE ATM is a location in Ajmer, Rajasthan, mentioned in the text.\"",
+      "source_id": "chunk-9b051e9ee114c46cd0d34b3b30cae991"
+    },
+    {
+      "id": "MUZAFFARPUR",
+      "entity_type": "GEO",
+      "description": "\"Muzaffarpur is a city in Bihar, India, mentioned in the context of an ATM closure.\"",
+      "source_id": "chunk-d463eb15f500e72bd1865277d8159a51"
+    },
+    {
+      "id": "PRINCE PRINCE",
+      "entity_type": "PERSON",
+      "description": "\"Prince Prince is an individual associated with an engineer visiting a site but not finding the address at NSS Karayogam Building, Punalur, Kollam, Kerala.\"",
+      "source_id": "chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "id": "AIR PORT",
+      "entity_type": "GEO",
+      "description": "\"Air Port is a location in NAD Post, Visakhapatnam District, Andhra Pradesh where NITB is situated.\"",
+      "source_id": "chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "id": "BOSE CENTRE",
+      "entity_type": "ORGANIZATION",
+      "description": "\"BOSE CENTRE is a location in Krishna, Andhra Pradesh, mentioned in the text.\"",
+      "source_id": "chunk-9b051e9ee114c46cd0d34b3b30cae991"
+    },
+    {
+      "id": "PRAKASH KUMAR MALLICK",
+      "entity_type": "PERSON",
+      "description": "\"Prakash Kumar Mallick is an engineer involved in service activities in Orissa.\"",
+      "source_id": "chunk-e3bd956d1969fa9dc489398263b7d394"
+    },
+    {
+      "id": "KOLKATA",
+      "entity_type": "GEO",
+      "description": "\"Kolkata is a city in West Bengal, India, referenced multiple times in the text.\"<SEP>\"Kolkata is a city in West Bengal, mentioned in the context of a work in progress.\"",
+      "source_id": "chunk-9abc868d600221904ef89e32979e27fb<SEP>chunk-d463eb15f500e72bd1865277d8159a51"
+    },
+    {
+      "id": "GORAKHPUR",
+      "entity_type": "GEO",
+      "description": "\"Gorakhpur is a city in Uttar Pradesh where Saraswati Vidya Mandir School and Ganges Hotel Chowraha are located.\"<SEP>\"Gorakhpur is a city in Uttar Pradesh, India, mentioned in the context of a mobile ATM repair.\"",
+      "source_id": "chunk-d463eb15f500e72bd1865277d8159a51<SEP>chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "id": "BALLIA",
+      "entity_type": "GEO",
+      "description": "\"Ballia is a city in the state of Uttar Pradesh, India.\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6"
+    },
+    {
+      "id": "THIRUVALLUR",
+      "entity_type": "GEO",
+      "description": "\"Thiruvallur is a city in Tamil Nadu, India, mentioned in the text.\"",
+      "source_id": "chunk-9b051e9ee114c46cd0d34b3b30cae991"
+    },
+    {
+      "id": "MANISH KUMAR",
+      "entity_type": "PERSON",
+      "description": "\"Manish Kumar is a person mentioned in the context of an access issue at a CRPF camp in Ranchi, Jharkhand.\"",
+      "source_id": "chunk-d463eb15f500e72bd1865277d8159a51"
+    },
+    {
+      "id": "SHABBIR MUJAWAR",
+      "entity_type": "PERSON",
+      "description": "\"Shabbir Mujawar is an individual associated with an unconfirmed address at Amdalli Karwar, Uttara Kannada, Karnataka.\"",
+      "source_id": "chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "id": "NAD POST",
+      "entity_type": "GEO",
+      "description": "\"NAD Post is a location in Visakhapatnam District, Andhra Pradesh where Air Port and NITB are located.\"",
+      "source_id": "chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "id": "KOLHAPUR",
+      "entity_type": "GEO",
+      "description": "\"Kolhapur is a city in Karnataka, India, mentioned in the text.\"",
+      "source_id": "chunk-9b051e9ee114c46cd0d34b3b30cae991"
+    },
+    {
+      "id": "APOLLO HOSPITAL, VANI VIHAR, KHORDHA",
+      "entity_type": "GEO",
+      "description": "\"Apollo Hospital, Vani Vihar, Khordha is a location in Orissa where service activities are being conducted.\"",
+      "source_id": "chunk-e3bd956d1969fa9dc489398263b7d394"
+    },
+    {
+      "id": "MD IMAMUDDIN",
+      "entity_type": "PERSON",
+      "description": "\"MD IMAMUDDIN is a person mentioned in the context of an access issue at an office in Kolkata, West Bengal.\"<SEP>\"MD Imamuddin is an individual associated with a work in progress in West Bengal.\"",
+      "source_id": "chunk-9abc868d600221904ef89e32979e27fb<SEP>chunk-d463eb15f500e72bd1865277d8159a51"
+    },
+    {
+      "id": "MIRZA CHOWKI",
+      "entity_type": "GEO",
+      "description": "\"Mirza Chowki is a location in Sahibganj, Jharkhand where Raj Kumar Pandit is associated with a device not being delivered.\"",
+      "source_id": "chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "id": "VANGARA STREET, KURUPAM",
+      "entity_type": "GEO",
+      "description": "\"Vangara Street, Kurupam is a specific location in Vizianagaram, Andhra Pradesh.\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6"
+    },
+    {
+      "id": "TCS SIRUSERI OFFICE",
+      "entity_type": "ORGANIZATION",
+      "description": "\"TCS SIRUSERI OFFICE is a location in Thiruvallur, Tamil Nadu, mentioned in the text.\"",
+      "source_id": "chunk-9b051e9ee114c46cd0d34b3b30cae991"
+    },
+    {
+      "id": "CRPF CAMP",
+      "entity_type": "ORGANIZATION",
+      "description": "\"CRPF CAMP is a camp in Jagannathpur, Ranchi, Jharkhand, mentioned in the context of an access issue.\"",
+      "source_id": "chunk-d463eb15f500e72bd1865277d8159a51"
+    },
+    {
+      "id": "ROSEN KUMAR SINGHA",
+      "entity_type": "PERSON",
+      "description": "\"Rosen Kumar Singha is an engineer involved in service activities in Mizoram.\"<SEP>\"Rosen Kumar Singha is an individual associated with a device not being found at SBI ATM AOC Veng, Serchhip, Mizoram.\"",
+      "source_id": "chunk-e3bd956d1969fa9dc489398263b7d394<SEP>chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "id": "VISAKHAPATNAM DISTRICT",
+      "entity_type": "GEO",
+      "description": "\"Visakhapatnam District is a district in Andhra Pradesh where NAD Post and Air Port are located.\"",
+      "source_id": "chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "id": "CPR HOSPITAL COMPOUND",
+      "entity_type": "ORGANIZATION",
+      "description": "\"CPR HOSPITAL COMPOUND is a location in Kolhapur, Karnataka, mentioned in the text.\"",
+      "source_id": "chunk-9b051e9ee114c46cd0d34b3b30cae991"
+    },
+    {
+      "id": "CITY SIDE, DEPARTURE BLOCK, AIRPORT, GANNAVARAM, KRISHNA",
+      "entity_type": "GEO",
+      "description": "\"City Side, Departure Block, Airport, Gannavaram, Krishna is a location in Andhra Pradesh where service activities are being conducted.\"",
+      "source_id": "chunk-e3bd956d1969fa9dc489398263b7d394"
+    },
+    {
+      "id": "JAGANNATHPARA",
+      "entity_type": "GEO",
+      "description": "\"Jagannathpara is a location in Kesinga, Odisha where Jagannath Temple is situated.\"<SEP>\"Jagannathpara is a location in Orissa, mentioned in the context of a work in progress.\"",
+      "source_id": "chunk-9abc868d600221904ef89e32979e27fb<SEP>chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "id": "SAHIBGANJ",
+      "entity_type": "GEO",
+      "description": "\"Sahibganj is a district in Jharkhand where Mirza Chowki is located.\"",
+      "source_id": "chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "id": "PATAMATA",
+      "entity_type": "GEO",
+      "description": "\"Patamata is a locality in Krishna district, Andhra Pradesh.\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6"
+    },
+    {
+      "id": "SBI TCS SIRUSERI",
+      "entity_type": "ORGANIZATION",
+      "description": "\"SBI TCS SIRUSERI is a location in Thiruvallur, Tamil Nadu, mentioned in the text.\"",
+      "source_id": "chunk-9b051e9ee114c46cd0d34b3b30cae991"
+    },
+    {
+      "id": "RANCHI",
+      "entity_type": "GEO",
+      "description": "\"Ranchi is a city in Jharkhand, India, mentioned in the context of an access issue.\"",
+      "source_id": "chunk-d463eb15f500e72bd1865277d8159a51"
+    },
+    {
+      "id": "RAJAN DAS",
+      "entity_type": "PERSON",
+      "description": "\"Rajan Das is an engineer involved in service activities in Assam.\"<SEP>\"Rajan Das is an individual associated with Assam.\"<SEP>\"Rajan Das is an individual associated with a device not being found at AOC Complex, Haflong, Dima Hasao, Assam.\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6<SEP>chunk-e3bd956d1969fa9dc489398263b7d394<SEP>chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "id": "SECAB JALANAGAR",
+      "entity_type": "ORGANIZATION",
+      "description": "\"SECAB Jalanagar is an organization located opposite to which Khajapeer Husensab Shahapur is associated with a device not being received in Bijapur, Karnataka.\"",
+      "source_id": "chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "id": "BHAUSINGJI ROAD",
+      "entity_type": "GEO",
+      "description": "\"BHAUSINGJI ROAD is a road in Kolhapur, Karnataka, mentioned in the text.\"",
+      "source_id": "chunk-9b051e9ee114c46cd0d34b3b30cae991"
+    },
+    {
+      "id": "OFF SITE, NEAR BOSE BOMMA, KRISHNA",
+      "entity_type": "GEO",
+      "description": "\"Off Site, Near Bose Bomma, Krishna is a location in Andhra Pradesh where service activities are being conducted.\"",
+      "source_id": "chunk-e3bd956d1969fa9dc489398263b7d394"
+    },
+    {
+      "id": "KESINGA",
+      "entity_type": "GEO",
+      "description": "\"Kesinga is a location in Orissa, mentioned in the context of a work in progress.\"<SEP>\"Kesinga is a town in Odisha where Jagannathpara and Jagannath Temple are located.\"",
+      "source_id": "chunk-9abc868d600221904ef89e32979e27fb<SEP>chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "id": "NSS KARAYOGAM BUILDING",
+      "entity_type": "GEO",
+      "description": "\"NSS Karayogam Building is a location in Punalur, Kollam, Kerala where Prince Prince is associated with an engineer visiting a site but not finding the address.\"",
+      "source_id": "chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "id": "CHITTI NAGAR",
+      "entity_type": "GEO",
+      "description": "\"Chitti Nagar is a locality in Vijayawada, Krishna district, Andhra Pradesh.\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6"
+    },
+    {
+      "id": "JAISALMER",
+      "entity_type": "GEO",
+      "description": "\"Jaisalmer is a city in Rajasthan, India, mentioned in the text.\"",
+      "source_id": "chunk-9b051e9ee114c46cd0d34b3b30cae991"
+    },
+    {
+      "id": "ANKIT KUMAR",
+      "entity_type": "PERSON",
+      "description": "\"Ankit Kumar is a person mentioned in the context of an ATM key issue in Bihar.\"",
+      "source_id": "chunk-d463eb15f500e72bd1865277d8159a51"
+    },
+    {
+      "id": "ORISSA",
+      "entity_type": "GEO",
+      "description": "\"Orissa is a state in India, mentioned in the context of a work in progress related to a ticket device.\"<SEP>\"Orissa is a state in eastern India where service activities are taking place.\"",
+      "source_id": "chunk-9abc868d600221904ef89e32979e27fb<SEP>chunk-e3bd956d1969fa9dc489398263b7d394"
+    },
+    {
+      "id": "SUJEET AGRAHARI",
+      "entity_type": "PERSON",
+      "description": "\"Sujeet Agrahari is an individual associated with a device not being available and not received at Railway Station Fatehpur, Fatehpur, Uttar Pradesh.\"",
+      "source_id": "chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "id": "BIJAPUR",
+      "entity_type": "GEO",
+      "description": "\"Bijapur is a city in Karnataka where SECAB Jalanagar is located.\"<SEP>\"Bijapur is a city in Karnataka, India, mentioned in the context of a device issue.\"",
+      "source_id": "chunk-d463eb15f500e72bd1865277d8159a51<SEP>chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "id": "TOWN HALL",
+      "entity_type": "ORGANIZATION",
+      "description": "\"TOWN HALL is a location in Kolhapur, Karnataka, mentioned in the text.\"",
+      "source_id": "chunk-9b051e9ee114c46cd0d34b3b30cae991"
+    },
+    {
+      "id": "MOHAMMAD KAMIL",
+      "entity_type": "PERSON",
+      "description": "\"Mohammad Kamil is an engineer involved in service activities in Uttar Pradesh.\"",
+      "source_id": "chunk-e3bd956d1969fa9dc489398263b7d394"
+    },
+    {
+      "id": "SHIMLA",
+      "entity_type": "GEO",
+      "description": "\"Shimla is a city in Himachal Pradesh, mentioned in the context of a work in progress.\"",
+      "source_id": "chunk-9abc868d600221904ef89e32979e27fb"
+    },
+    {
+      "id": "PUNALUR",
+      "entity_type": "GEO",
+      "description": "\"Punalur is a city in Kollam, Kerala where NSS Karayogam Building is located.\"",
+      "source_id": "chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "id": "ADONI",
+      "entity_type": "GEO",
+      "description": "\"Adoni is a city in Kurnool district, Andhra Pradesh.\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6"
+    },
+    {
+      "id": "RAILWAY STATION JAISALMER",
+      "entity_type": "ORGANIZATION",
+      "description": "\"RAILWAY STATION JAISALMER is a location in Jaisalmer, Rajasthan, mentioned in the text.\"",
+      "source_id": "chunk-9b051e9ee114c46cd0d34b3b30cae991"
+    },
+    {
+      "id": "SBI VIDHAN SABHA ATM",
+      "entity_type": "ORGANIZATION",
+      "description": "\"SBI VIDHAN SABHA ATM is an ATM in Bihar, mentioned in the context of a key issue.\"",
+      "source_id": "chunk-d463eb15f500e72bd1865277d8159a51"
+    },
+    {
+      "id": "AMBEDKAR NAGAR",
+      "entity_type": "GEO",
+      "description": "\"Ambedkar Nagar is a city in Uttar Pradesh, India, mentioned in the text.\"<SEP>\"Ambedkar Nagar is a district in Uttar Pradesh, India.\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6<SEP>chunk-9b051e9ee114c46cd0d34b3b30cae991"
+    },
+    {
+      "id": "C MD RAFEEQ AHMED",
+      "entity_type": "PERSON",
+      "description": "\"C Md Rafeeq Ahmed is an individual associated with a wrong address and ID not matching at Railway Station Road, SBI Centre, Opp KIMS Hospital, Joharapuram, Kurnool District, Andhra Pradesh.\"",
+      "source_id": "chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "id": "P B NO 7 B H ROAD",
+      "entity_type": "GEO",
+      "description": "\"P B No 7 B H Road is a location in Shimoga, Karnataka where Lokesha Kashimata is associated with access being denied.\"",
+      "source_id": "chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "id": "INDORE",
+      "entity_type": "GEO",
+      "description": "\"Indore is a city in Madhya Pradesh, India, mentioned in the text.\"",
+      "source_id": "chunk-9b051e9ee114c46cd0d34b3b30cae991"
+    },
+    {
+      "id": "DM COMPOUND, CIVIL LINES, MORADABAD",
+      "entity_type": "GEO",
+      "description": "\"DM Compound, Civil Lines, Moradabad is a location in Uttar Pradesh where service activities are being conducted.\"",
+      "source_id": "chunk-e3bd956d1969fa9dc489398263b7d394"
+    },
+    {
+      "id": "HP SECTT",
+      "entity_type": "GEO",
+      "description": "\"HP Sectt is a location in Shimla, Himachal Pradesh, mentioned in the context of a work in progress.\"",
+      "source_id": "chunk-9abc868d600221904ef89e32979e27fb"
+    },
+    {
+      "id": "KOLLAM",
+      "entity_type": "GEO",
+      "description": "\"Kollam is a district in Kerala where Punalur and NSS Karayogam Building are located.\"",
+      "source_id": "chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "id": "BANGALORE",
+      "entity_type": "GEO",
+      "description": "\"Bangalore is a city in Karnataka, India, mentioned in the text.\"<SEP>\"Bangalore is the capital city of Karnataka, India.\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6<SEP>chunk-9b051e9ee114c46cd0d34b3b30cae991"
+    },
+    {
+      "id": "SRIKAKULAM",
+      "entity_type": "GEO",
+      "description": "\"Srikakulam is a city in Andhra Pradesh, India, mentioned in the text.\"",
+      "source_id": "chunk-9b051e9ee114c46cd0d34b3b30cae991"
+    },
+    {
+      "id": "MOBILE ATM SECTOR-14, PANCHKULA",
+      "entity_type": "GEO",
+      "description": "\"Mobile ATM Sector-14, Panchkula is a location in Chandigarh where service activities are being conducted.\"",
+      "source_id": "chunk-e3bd956d1969fa9dc489398263b7d394"
+    },
+    {
+      "id": "VIVEK NAGAR",
+      "entity_type": "GEO",
+      "description": "\"VIVEK NAGAR is a location in Bijapur, Karnataka, mentioned in the context of a device issue.\"",
+      "source_id": "chunk-d463eb15f500e72bd1865277d8159a51"
+    },
+    {
+      "id": "RAMSUNDER SUNANI",
+      "entity_type": "PERSON",
+      "description": "\"Ramsunder Sunani is an individual associated with a key not being available at Near Jagannath Temple, Jagannathpara, Kesinga, Odisha.\"<SEP>\"Ramsunder Sunani is an individual associated with a work in progress in Orissa.\"",
+      "source_id": "chunk-9abc868d600221904ef89e32979e27fb<SEP>chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "id": "BHAGAVAN D",
+      "entity_type": "PERSON",
+      "description": "\"Bhagavan D is an individual associated with needing bank permission at NITB, Air Port, NAD Post, Visakhapatnam District, Andhra Pradesh.\"",
+      "source_id": "chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "id": "SHIMOGA",
+      "entity_type": "GEO",
+      "description": "\"Shimoga is a city in Karnataka where P B No 7 B H Road is located.\"<SEP>\"Shimoga is a city in the state of Karnataka, India.\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6<SEP>chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "id": "AIRPORT TERMINAL INDORE",
+      "entity_type": "ORGANIZATION",
+      "description": "\"AIRPORT TERMINAL INDORE is a location in Indore, Madhya Pradesh, mentioned in the text.\"",
+      "source_id": "chunk-9b051e9ee114c46cd0d34b3b30cae991"
+    },
+    {
+      "id": "AIRPORT BUILDING, KUMBHIRGRAM AIRPORT, SILCHAR AIRPORT, CACHAR",
+      "entity_type": "GEO",
+      "description": "\"Airport Building, Kumbhirgram Airport, Silchar Airport, Cachar is a location in Assam where service activities are being conducted.\"",
+      "source_id": "chunk-e3bd956d1969fa9dc489398263b7d394"
+    },
+    {
+      "id": "VISAKHAPATNAM",
+      "entity_type": "GEO",
+      "description": "\"Visakhapatnam is a city in Andhra Pradesh, India, mentioned in the text.\"",
+      "source_id": "chunk-9b051e9ee114c46cd0d34b3b30cae991"
+    },
+    {
+      "id": "BATHINDA",
+      "entity_type": "GEO",
+      "description": "\"Bathinda is a city in Punjab, mentioned in the context of a work in progress.\"",
+      "source_id": "chunk-9abc868d600221904ef89e32979e27fb"
+    },
+    {
+      "id": "AMDALLI KARWAR",
+      "entity_type": "GEO",
+      "description": "\"Amdalli Karwar is a location in Uttara Kannada, Karnataka where Shabbir Mujawar is associated with an unconfirmed address.\"",
+      "source_id": "chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "id": "MAJESTIC BANGALORE",
+      "entity_type": "GEO",
+      "description": "\"Majestic Bangalore is a specific area in Bangalore, Karnataka.\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6"
+    },
+    {
+      "id": "SRI SRINIVASA FILLING STATION",
+      "entity_type": "ORGANIZATION",
+      "description": "\"SRI SRINIVASA FILLING STATION is a location in Srikakulam, Andhra Pradesh, mentioned in the text.\"",
+      "source_id": "chunk-9b051e9ee114c46cd0d34b3b30cae991"
+    },
+    {
+      "id": "T-CSCT-WF-IN-2263-2722",
+      "entity_type": "EVENT",
+      "description": "\"T-CSCT-WF-IN-2263-2722 is an event code mentioned in the context of issues in West Bengal.\"",
+      "source_id": "chunk-d463eb15f500e72bd1865277d8159a51"
+    },
+    {
+      "id": "JAGANNATH TEMPLE",
+      "entity_type": "GEO",
+      "description": "\"Jagannath Temple is a significant location in Orissa, mentioned in the context of a work in progress.\"<SEP>\"Jagannath Temple is a temple located in Jagannathpara, Kesinga, Odisha where Ramsunder Sunani is associated with a key not being available.\"",
+      "source_id": "chunk-9abc868d600221904ef89e32979e27fb<SEP>chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "id": "KHAJAPEER HUSENSAB SHAHAPUR",
+      "entity_type": "PERSON",
+      "description": "\"KHAJAPEER HUSENSAB SHAHAPUR is a person mentioned in the context of a device issue in Bijapur, Karnataka.\"<SEP>\"Khajapeer Husensab Shahapur is an individual associated with a device not being received at Opposite to SECAB Jalanagar, Bijapur, Karnataka.\"",
+      "source_id": "chunk-d463eb15f500e72bd1865277d8159a51<SEP>chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "id": "AKBARPUR",
+      "entity_type": "GEO",
+      "description": "\"Akbarpur is a location in Ambedkar Nagar, Uttar Pradesh, with postal code 224122.\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6"
+    },
+    {
+      "id": "SUKHSAGAR BHAWAN GURUDWAR",
+      "entity_type": "ORGANIZATION",
+      "description": "\"SUKHSAGAR BHAWAN GURUDWAR is a location in Indore, Madhya Pradesh, mentioned in the text.\"",
+      "source_id": "chunk-9b051e9ee114c46cd0d34b3b30cae991"
+    },
+    {
+      "id": "BCKV, KALYANI, NADIA",
+      "entity_type": "GEO",
+      "description": "\"BCKV, Kalyani, Nadia is a location in West Bengal where service activities are being conducted.\"",
+      "source_id": "chunk-e3bd956d1969fa9dc489398263b7d394"
+    },
+    {
+      "id": "LOKESHA KASHIMATA",
+      "entity_type": "PERSON",
+      "description": "\"Lokesha Kashimata is an individual associated with Karnataka.\"<SEP>\"Lokesha Kashimata is an individual associated with access being denied at P B No 7 B H Road, Shimoga, Karnataka.\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6<SEP>chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "id": "VIZIANAGARAM",
+      "entity_type": "UNKNOWN",
+      "description": "\"Vangara Street, Kurupam is a specific location within Vizianagaram.\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6"
+    },
+    {
+      "id": "VIJAYAWADA",
+      "entity_type": "UNKNOWN",
+      "description": "\"Chitti Nagar is a locality in Vijayawada, Krishna district.\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6"
+    },
+    {
+      "id": "KURNOOL",
+      "entity_type": "UNKNOWN",
+      "description": "\"Adoni is a city in Kurnool district.\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6"
+    },
+    {
+      "id": "RAJNANDGAON",
+      "entity_type": "UNKNOWN",
+      "description": "\"PTS Rajnandgaon is a specific location within Rajnandgaon.\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6"
+    }
+  ],
+  "edges": [
+    {
+      "source": "ENTITY",
+      "target": "RELATIONSHIP",
+      "weight": 9.0,
+      "description": "\"Entities are identified and their relationships are extracted from the document.\"",
+      "keywords": "\"identification, extraction\"",
+      "source_id": "chunk-d6c5855a62cf32a4dadbc2831f0f295f"
+    },
+    {
+      "source": "MAIN ORGANIZATION",
+      "target": "MAIN STREET",
+      "weight": 6.0,
+      "description": "\"Main Organization operates within Main Street, indicating a geographical connection.\"",
+      "keywords": "\"location, operation\"",
+      "source_id": "chunk-fad58de7366495db4650cfefac2fcd61"
+    },
+    {
+      "source": "MAIN ORGANIZATION",
+      "target": "JOHN DOE",
+      "weight": 7.0,
+      "description": "\"John Doe is associated with Main Organization, indicating a connection between the individual and the group.\"",
+      "keywords": "\"association, membership\"",
+      "source_id": "chunk-fad58de7366495db4650cfefac2fcd61"
+    },
+    {
+      "source": "DOCUMENT",
+      "target": "SCRIPTS",
+      "weight": 8.0,
+      "description": "\"Scripts are a type of document that contains written texts.\"",
+      "keywords": "\"text type, written representation\"",
+      "source_id": "chunk-d6c5855a62cf32a4dadbc2831f0f295f"
+    },
+    {
+      "source": "JANE SMITH",
+      "target": "MAIN EVENT",
+      "weight": 8.0,
+      "description": "\"Jane Smith is involved in Main Event, indicating her participation in the significant occurrence.\"",
+      "keywords": "\"participation, involvement\"",
+      "source_id": "chunk-fad58de7366495db4650cfefac2fcd61"
+    },
+    {
+      "source": "SAMSUNG GALAXY S21",
+      "target": "AMAZON",
+      "weight": 9.0,
+      "description": "\"Amazon sells the Samsung Galaxy S21 on its platform.\"",
+      "keywords": "\"e-commerce, product availability\"",
+      "source_id": "chunk-5fb9ea84ac0fb7fa80ef80162ec2fafe"
+    },
+    {
+      "source": "SAMSUNG GALAXY S21",
+      "target": "SAMSUNG",
+      "weight": 8.0,
+      "description": "\"Samsung manufactures the Galaxy S21, which is sold on Amazon.\"",
+      "keywords": "\"manufacturing, product offering\"",
+      "source_id": "chunk-5fb9ea84ac0fb7fa80ef80162ec2fafe"
+    },
+    {
+      "source": "LIGHTWEIGHT DESIGN",
+      "target": "MODESK UNIVERSAL MOBILE HOLDER",
+      "weight": 7.0,
+      "description": "\"The Modesk Universal Mobile Holder is designed to be lightweight, weighing only 122 grams.\"",
+      "keywords": "\"portability, ease of use\"",
+      "source_id": "chunk-7b32e0e6e84c5b591623650c520a6204"
+    },
+    {
+      "source": "EXPRO CHARGING PAD",
+      "target": "EXPRO",
+      "weight": 8.0,
+      "description": "\"Expro manufactures the Charging Pad with Glossy Look and Strong Body, which is sold on Flipkart.\"",
+      "keywords": "\"manufacturing, product offering\"",
+      "source_id": "chunk-5fb9ea84ac0fb7fa80ef80162ec2fafe"
+    },
+    {
+      "source": "EXPRO CHARGING PAD",
+      "target": "FLIPKART",
+      "weight": 9.0,
+      "description": "\"Flipkart sells the Expro Charging Pad on its platform.\"",
+      "keywords": "\"e-commerce, product availability\"",
+      "source_id": "chunk-5fb9ea84ac0fb7fa80ef80162ec2fafe"
+    },
+    {
+      "source": "STRIFF",
+      "target": "STRIFF FLEXIBLE MOBILE STAND",
+      "weight": 8.0,
+      "description": "\"STRIFF manufactures the Flexible Mobile Stand, which is sold on Flipkart.\"",
+      "keywords": "\"manufacturing, product offering\"",
+      "source_id": "chunk-5fb9ea84ac0fb7fa80ef80162ec2fafe"
+    },
+    {
+      "source": "ANGULAR DESIGN",
+      "target": "MODESK UNIVERSAL MOBILE HOLDER",
+      "weight": 8.0,
+      "description": "\"The Modesk Universal Mobile Holder has an Angular Design that provides a perfect viewing angle for smartphones.\"",
+      "keywords": "\"viewing angle, user convenience\"",
+      "source_id": "chunk-7b32e0e6e84c5b591623650c520a6204"
+    },
+    {
+      "source": "PORTRONICS POR-122 MODESK",
+      "target": "PORTRONICS",
+      "weight": 8.0,
+      "description": "\"Portronics manufactures the POR-122 MoDesk Universal Mobile Holder, which is sold on Flipkart.\"",
+      "keywords": "\"manufacturing, product offering\"",
+      "source_id": "chunk-5fb9ea84ac0fb7fa80ef80162ec2fafe"
+    },
+    {
+      "source": "PORTRONICS POR-122 MODESK",
+      "target": "FLIPKART",
+      "weight": 9.0,
+      "description": "\"Flipkart sells the Portronics POR-122 MoDesk on its platform.\"",
+      "keywords": "\"e-commerce, product availability\"",
+      "source_id": "chunk-5fb9ea84ac0fb7fa80ef80162ec2fafe"
+    },
+    {
+      "source": "OFFICE DESKS",
+      "target": "MODESK UNIVERSAL MOBILE HOLDER",
+      "weight": 6.0,
+      "description": "\"The Modesk Universal Mobile Holder is designed to be used on office desks, providing a convenient place for smartphone viewing.\"",
+      "keywords": "\"usage location, convenience\"",
+      "source_id": "chunk-7b32e0e6e84c5b591623650c520a6204"
+    },
+    {
+      "source": "BAJAJ FINSERV EMI CARD",
+      "target": "MODESK UNIVERSAL MOBILE HOLDER",
+      "weight": 7.0,
+      "description": "\"Bajaj Finserv EMI Card offers No Cost EMI on the purchase of the Modesk Universal Mobile Holder for cart values above ₹2999.\"",
+      "keywords": "\"financial incentive, purchase benefit\"",
+      "source_id": "chunk-7b32e0e6e84c5b591623650c520a6204"
+    },
+    {
+      "source": "FLIPKART AXIS BANK CREDIT CARD",
+      "target": "MODESK UNIVERSAL MOBILE HOLDER",
+      "weight": 8.0,
+      "description": "\"Flipkart Axis Bank Credit Card offers 5% unlimited cashback on the purchase of the Modesk Universal Mobile Holder.\"",
+      "keywords": "\"financial incentive, purchase benefit\"",
+      "source_id": "chunk-7b32e0e6e84c5b591623650c520a6204"
+    },
+    {
+      "source": "SMARTPHONE",
+      "target": "MODESK UNIVERSAL MOBILE HOLDER",
+      "weight": 9.0,
+      "description": "\"The Modesk Universal Mobile Holder is designed to securely hold smartphones.\"",
+      "keywords": "\"device compatibility, security\"",
+      "source_id": "chunk-7b32e0e6e84c5b591623650c520a6204"
+    },
+    {
+      "source": "MODESK UNIVERSAL MOBILE HOLDER",
+      "target": "STAINLESS STEEL BODY",
+      "weight": 9.0,
+      "description": "\"The Modesk Universal Mobile Holder features a Stainless Steel Body, providing durability and resistance to rust and corrosion.\"",
+      "keywords": "\"material quality, durability\"",
+      "source_id": "chunk-7b32e0e6e84c5b591623650c520a6204"
+    },
+    {
+      "source": "MODESK UNIVERSAL MOBILE HOLDER",
+      "target": "ANTISKID SILICON PADS",
+      "weight": 8.0,
+      "description": "\"The Modesk Universal Mobile Holder includes Antiskid Silicon Pads to prevent slipping and ensure stability.\"",
+      "keywords": "\"stability, safety\"",
+      "source_id": "chunk-7b32e0e6e84c5b591623650c520a6204"
+    },
+    {
+      "source": "MODESK UNIVERSAL MOBILE HOLDER",
+      "target": "INCOMING CALLS",
+      "weight": 7.0,
+      "description": "\"The Modesk Universal Mobile Holder allows users to easily and privately view incoming calls on their smartphones.\"",
+      "keywords": "\"privacy, convenience\"",
+      "source_id": "chunk-7b32e0e6e84c5b591623650c520a6204"
+    },
+    {
+      "source": "MODESK UNIVERSAL MOBILE HOLDER",
+      "target": "MESSAGES",
+      "weight": 7.0,
+      "description": "\"The Modesk Universal Mobile Holder allows users to easily and privately respond to messages on their smartphones.\"",
+      "keywords": "\"privacy, communication\"",
+      "source_id": "chunk-7b32e0e6e84c5b591623650c520a6204"
+    },
+    {
+      "source": "MODESK UNIVERSAL MOBILE HOLDER",
+      "target": "FLIPKART",
+      "weight": 7.0,
+      "description": "\"The Modesk Universal Mobile Holder is available for purchase on Flipkart.\"",
+      "keywords": "\"availability, e-commerce\"",
+      "source_id": "chunk-7b32e0e6e84c5b591623650c520a6204"
+    },
+    {
+      "source": "MODESK UNIVERSAL MOBILE HOLDER",
+      "target": "PORTRONICS",
+      "weight": 9.0,
+      "description": "\"Portronics is the manufacturer of the Modesk Universal Mobile Holder, ensuring its quality and design.\"",
+      "keywords": "\"manufacturing, product quality\"",
+      "source_id": "chunk-7b32e0e6e84c5b591623650c520a6204"
+    },
+    {
+      "source": "STRIFF FLEXIBLE MOBILE STAND",
+      "target": "FLIPKART",
+      "weight": 9.0,
+      "description": "\"Flipkart sells the STRIFF Flexible Mobile Stand on its platform.\"",
+      "keywords": "\"e-commerce, product availability\"",
+      "source_id": "chunk-5fb9ea84ac0fb7fa80ef80162ec2fafe"
+    },
+    {
+      "source": "KAMRUP METRO",
+      "target": "MAHIBUL HOQUE",
+      "weight": 7.0,
+      "description": "\"Mahibul Hoque's work is in Kamrup Metro, Assam.\"",
+      "keywords": "\"work in progress, location\"",
+      "source_id": "chunk-9abc868d600221904ef89e32979e27fb"
+    },
+    {
+      "source": "UTTARA KANNADA",
+      "target": "AMDALLI KARWAR",
+      "weight": 7.0,
+      "description": "\"Amdalli Karwar is located in Uttara Kannada, Karnataka.\"",
+      "keywords": "\"location, geographical relation\"",
+      "source_id": "chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "source": "JABALPUR",
+      "target": "MADHYA PRADESH",
+      "weight": 8.0,
+      "description": "\"Jabalpur is a city in the state of Madhya Pradesh.\"",
+      "keywords": "\"city, state\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6"
+    },
+    {
+      "source": "T-CSCT-WF-IN-2263-2735",
+      "target": "AJEET KUMAR CHAUDHARY",
+      "weight": 7.0,
+      "description": "\"Ajeet Kumar Chaudhary is involved in resolving issues related to the event T-CSCT-WF-IN-2263-2735 in Uttar Pradesh.\"",
+      "keywords": "\"event resolution, technical support\"",
+      "source_id": "chunk-d463eb15f500e72bd1865277d8159a51"
+    },
+    {
+      "source": "SANJAY BHATNAGAR",
+      "target": "HIMACHAL PRADESH",
+      "weight": 8.0,
+      "description": "\"Sanjay Bhatnagar is working on a project in Himachal Pradesh.\"",
+      "keywords": "\"work in progress, location\"",
+      "source_id": "chunk-9abc868d600221904ef89e32979e27fb"
+    },
+    {
+      "source": "SANJAY BHATNAGAR",
+      "target": "SHIMLA",
+      "weight": 7.0,
+      "description": "\"Sanjay Bhatnagar's work is in Shimla, Himachal Pradesh.\"",
+      "keywords": "\"work in progress, location\"",
+      "source_id": "chunk-9abc868d600221904ef89e32979e27fb"
+    },
+    {
+      "source": "SANJAY BHATNAGAR",
+      "target": "HP SECTT",
+      "weight": 7.0,
+      "description": "\"Sanjay Bhatnagar's work is in HP Sectt, Shimla, Himachal Pradesh.\"",
+      "keywords": "\"work in progress, location\"",
+      "source_id": "chunk-9abc868d600221904ef89e32979e27fb"
+    },
+    {
+      "source": "SIKKIM",
+      "target": "RICK TALUKDER",
+      "weight": 14.0,
+      "description": "\"Rick Talukder is associated with an access issue in Sikkim.\"<SEP>\"Rick Talukder is associated with the state of Sikkim.\"",
+      "keywords": "\"association, location\"<SEP>\"location, access issue\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6<SEP>chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "source": "SIKKIM",
+      "target": "EAST DISTRICT",
+      "weight": 8.0,
+      "description": "\"East District is a district in the state of Sikkim.\"",
+      "keywords": "\"district, state\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6"
+    },
+    {
+      "source": "NAND LAL",
+      "target": "HIMACHAL PRADESH",
+      "weight": 15.0,
+      "description": "\"NAND LAL is associated with a specific task or location in Himachal Pradesh.\"<SEP>\"Nand Lal is associated with the state of Himachal Pradesh.\"",
+      "keywords": "\"association, location\"<SEP>\"task assignment, location association\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6<SEP>chunk-9b051e9ee114c46cd0d34b3b30cae991"
+    },
+    {
+      "source": "OFFICE OF THE 5TH BATTALI",
+      "target": "MD IMAMUDDIN",
+      "weight": 8.0,
+      "description": "\"MD IMAMUDDIN is involved in resolving access and gate pass issues at the OFFICE OF THE 5TH BATTALI in Kolkata, West Bengal.\"",
+      "keywords": "\"access issues, gate pass issues\"",
+      "source_id": "chunk-d463eb15f500e72bd1865277d8159a51"
+    },
+    {
+      "source": "NARENGI TINALI",
+      "target": "MAHIBUL HOQUE",
+      "weight": 7.0,
+      "description": "\"Mahibul Hoque's work is in Narengi Tinali, Guwahati, Assam.\"",
+      "keywords": "\"work in progress, location\"",
+      "source_id": "chunk-9abc868d600221904ef89e32979e27fb"
+    },
+    {
+      "source": "SBI ATM AOC VENG",
+      "target": "AOC VENG",
+      "weight": 7.0,
+      "description": "\"SBI ATM AOC Veng is located in AOC Veng, Serchhip, Mizoram.\"",
+      "keywords": "\"location, organizational relation\"",
+      "source_id": "chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "source": "SAHIBZADA AJIT SINGH NAGAR",
+      "target": "PUNJAB",
+      "weight": 8.0,
+      "description": "\"Sahibzada Ajit Singh Nagar, also known as Mohali, is a city in Punjab.\"",
+      "keywords": "\"city, state\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6"
+    },
+    {
+      "source": "T-CSCT-WF-IN-2263-2817",
+      "target": "DHIRENDRA KUMAR YADAV",
+      "weight": 7.0,
+      "description": "\"Dhirendra Kumar Yadav is involved in resolving issues related to the event T-CSCT-WF-IN-2263-2817 in Uttar Pradesh.\"",
+      "keywords": "\"event resolution, technical support\"",
+      "source_id": "chunk-d463eb15f500e72bd1865277d8159a51"
+    },
+    {
+      "source": "PUNJAB",
+      "target": "SUKHJEET SINGH",
+      "weight": 8.0,
+      "description": "\"Sukhjeet Singh is working on a project in Punjab.\"",
+      "keywords": "\"work in progress, location\"",
+      "source_id": "chunk-9abc868d600221904ef89e32979e27fb"
+    },
+    {
+      "source": "UTTAR PRADESH",
+      "target": "BALLIA",
+      "weight": 8.0,
+      "description": "\"Ballia is a city in the state of Uttar Pradesh.\"",
+      "keywords": "\"city, state\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6"
+    },
+    {
+      "source": "UTTAR PRADESH",
+      "target": "ADIL ZAFAR",
+      "weight": 8.0,
+      "description": "\"Adil Zafar is associated with a specific task or location in Uttar Pradesh.\"",
+      "keywords": "\"task assignment, location association\"",
+      "source_id": "chunk-9b051e9ee114c46cd0d34b3b30cae991"
+    },
+    {
+      "source": "UTTAR PRADESH",
+      "target": "MOHAMMAD KAMIL",
+      "weight": 8.0,
+      "description": "\"Mohammad Kamil is conducting service activities in Uttar Pradesh.\"",
+      "keywords": "\"service activities, location\"",
+      "source_id": "chunk-e3bd956d1969fa9dc489398263b7d394"
+    },
+    {
+      "source": "UTTAR PRADESH",
+      "target": "SALAH UDDIN",
+      "weight": 13.0,
+      "description": "\"Salah Uddin is associated with a device not being available in Uttar Pradesh.\"<SEP>\"Salah Uddin is associated with the state of Uttar Pradesh.\"",
+      "keywords": "\"association, location\"<SEP>\"location, device issue\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6<SEP>chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "source": "UTTAR PRADESH",
+      "target": "AJEET KUMAR CHAUDHARY",
+      "weight": 7.0,
+      "description": "\"Ajeet Kumar Chaudhary is associated with access issues and a guard not being available in Uttar Pradesh.\"",
+      "keywords": "\"location, access issue\"",
+      "source_id": "chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "source": "UTTAR PRADESH",
+      "target": "SUNEEL KUMAR",
+      "weight": 7.0,
+      "description": "\"Suneel Kumar is associated with the state of Uttar Pradesh.\"",
+      "keywords": "\"association, location\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6"
+    },
+    {
+      "source": "UTTAR PRADESH",
+      "target": "SUJEET AGRAHARI",
+      "weight": 6.0,
+      "description": "\"Sujeet Agrahari is associated with a device not being available and not received in Uttar Pradesh.\"",
+      "keywords": "\"location, device issue\"",
+      "source_id": "chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "source": "CHHATTISGARH",
+      "target": "NAITIK MESHRAM",
+      "weight": 7.0,
+      "description": "\"Naitik Meshram is associated with the state of Chhattisgarh.\"",
+      "keywords": "\"association, location\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6"
+    },
+    {
+      "source": "SBI BETIAHATA BRANCH",
+      "target": "AJEET KUMAR CHAUDHARY",
+      "weight": 7.0,
+      "description": "\"Ajeet Kumar Chaudhary is involved in the repair of a mobile ATM associated with the SBI BETIAHATA BRANCH in Gorakhpur, Uttar Pradesh.\"",
+      "keywords": "\"ATM repair, banking\"",
+      "source_id": "chunk-d463eb15f500e72bd1865277d8159a51"
+    },
+    {
+      "source": "WARANGAL DIST",
+      "target": "KODAM SUNIL KUMAR",
+      "weight": 7.0,
+      "description": "\"Kodam Sunil Kumar's work is in Warangal Dist, Telangana.\"",
+      "keywords": "\"work in progress, location\"",
+      "source_id": "chunk-9abc868d600221904ef89e32979e27fb"
+    },
+    {
+      "source": "AOC VENG",
+      "target": "SERCHHIP",
+      "weight": 7.0,
+      "description": "\"AOC Veng is located in Serchhip, Mizoram.\"",
+      "keywords": "\"location, geographical relation\"",
+      "source_id": "chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "source": "TEZPUR",
+      "target": "ASSAM",
+      "weight": 8.0,
+      "description": "\"Tezpur is a city in the state of Assam.\"",
+      "keywords": "\"city, state\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6"
+    },
+    {
+      "source": "T-CSCT-WF-IN-2263-2930",
+      "target": "P V SOMASHEKHAR RAO",
+      "weight": 7.0,
+      "description": "\"P V Somashekhar Rao is involved in resolving issues related to the event T-CSCT-WF-IN-2263-2930 in Uttar Pradesh.\"",
+      "keywords": "\"event resolution, technical support\"",
+      "source_id": "chunk-d463eb15f500e72bd1865277d8159a51"
+    },
+    {
+      "source": "SUKHJEET SINGH",
+      "target": "BATHINDA CANTT",
+      "weight": 7.0,
+      "description": "\"Sukhjeet Singh's work is in Bathinda Cantt, Punjab.\"",
+      "keywords": "\"work in progress, location\"",
+      "source_id": "chunk-9abc868d600221904ef89e32979e27fb"
+    },
+    {
+      "source": "SUKHJEET SINGH",
+      "target": "BATHINDA",
+      "weight": 7.0,
+      "description": "\"Sukhjeet Singh's work is in Bathinda, Punjab.\"",
+      "keywords": "\"work in progress, location\"",
+      "source_id": "chunk-9abc868d600221904ef89e32979e27fb"
+    },
+    {
+      "source": "JHARKHAND",
+      "target": "RAJ KUMAR PANDIT",
+      "weight": 6.0,
+      "description": "\"Raj Kumar Pandit is associated with a device not being delivered in Jharkhand.\"",
+      "keywords": "\"location, device issue\"",
+      "source_id": "chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "source": "DHIRENDRA KUMAR YADAV",
+      "target": "ALLAHABAD",
+      "weight": 6.0,
+      "description": "\"Dhirendra Kumar Yadav is involved in resolving a device issue in Allahabad, Uttar Pradesh.\"",
+      "keywords": "\"device issue, technical support\"",
+      "source_id": "chunk-d463eb15f500e72bd1865277d8159a51"
+    },
+    {
+      "source": "NGOS COLONY",
+      "target": "KODAM SUNIL KUMAR",
+      "weight": 7.0,
+      "description": "\"Kodam Sunil Kumar's work is in NGOs Colony, Warangal, Telangana.\"",
+      "keywords": "\"work in progress, location\"",
+      "source_id": "chunk-9abc868d600221904ef89e32979e27fb"
+    },
+    {
+      "source": "CACHAR",
+      "target": "ASSAM",
+      "weight": 8.0,
+      "description": "\"Cachar is a district in the state of Assam.\"",
+      "keywords": "\"district, state\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6"
+    },
+    {
+      "source": "T-CSCT-WF-IN-2263-2979",
+      "target": "MANISH ANTHWAL",
+      "weight": 7.0,
+      "description": "\"Manish Anthwal is involved in resolving issues related to the event T-CSCT-WF-IN-2263-2979 in Uttarakhand.\"",
+      "keywords": "\"event resolution, technical support\"",
+      "source_id": "chunk-d463eb15f500e72bd1865277d8159a51"
+    },
+    {
+      "source": "KERALA",
+      "target": "PRINCE PRINCE",
+      "weight": 6.0,
+      "description": "\"Prince Prince is associated with an engineer visiting a site but not finding the address in Kerala.\"",
+      "keywords": "\"location, address issue\"",
+      "source_id": "chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "source": "BHARAT SOLANKI",
+      "target": "RAJASTHAN",
+      "weight": 7.0,
+      "description": "\"Bharat Solanki is associated with the state of Rajasthan.\"",
+      "keywords": "\"association, location\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6"
+    },
+    {
+      "source": "HANAMKONDA CHOWRASTA",
+      "target": "KODAM SUNIL KUMAR",
+      "weight": 7.0,
+      "description": "\"Kodam Sunil Kumar's work is in Hanamkonda Chowrasta, Warangal, Telangana.\"",
+      "keywords": "\"work in progress, location\"",
+      "source_id": "chunk-9abc868d600221904ef89e32979e27fb"
+    },
+    {
+      "source": "AOC COMPLEX",
+      "target": "HAFLONG",
+      "weight": 7.0,
+      "description": "\"AOC Complex is located in Haflong, Dima Hasao, Assam.\"",
+      "keywords": "\"location, geographical relation\"",
+      "source_id": "chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "source": "NHPC COLONY, BALUWATAR",
+      "target": "EAST DISTRICT",
+      "weight": 8.0,
+      "description": "\"NHPC Colony, Baluwatar is a specific location within East District.\"",
+      "keywords": "\"specific location, district\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6"
+    },
+    {
+      "source": "CHAMBA",
+      "target": "POLICE LINE CHAMBA",
+      "weight": 8.0,
+      "description": "\"Police Line Chamba is a specific location within Chamba.\"",
+      "keywords": "\"specific location, geo\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6"
+    },
+    {
+      "source": "HIMACHAL PRADESH",
+      "target": "GOLDY K",
+      "weight": 8.0,
+      "description": "\"Goldy K is conducting service activities in Himachal Pradesh.\"",
+      "keywords": "\"service activities, location\"",
+      "source_id": "chunk-e3bd956d1969fa9dc489398263b7d394"
+    },
+    {
+      "source": "T-CSCT-WF-IN-2263-2988",
+      "target": "GOVIND SINGH",
+      "weight": 7.0,
+      "description": "\"Govind Singh is involved in resolving issues related to the event T-CSCT-WF-IN-2263-2988 in Delhi.\"",
+      "keywords": "\"event resolution, technical support\"",
+      "source_id": "chunk-d463eb15f500e72bd1865277d8159a51"
+    },
+    {
+      "source": "ASSAM",
+      "target": "MAHIBUL HOQUE",
+      "weight": 8.0,
+      "description": "\"Mahibul Hoque is working on a project in Assam.\"",
+      "keywords": "\"work in progress, location\"",
+      "source_id": "chunk-9abc868d600221904ef89e32979e27fb"
+    },
+    {
+      "source": "ASSAM",
+      "target": "RAJAN DAS",
+      "weight": 21.0,
+      "description": "\"Rajan Das is associated with a device not being found in Assam.\"<SEP>\"Rajan Das is associated with the state of Assam.\"<SEP>\"Rajan Das is conducting service activities in Assam.\"",
+      "keywords": "\"association, location\"<SEP>\"location, device issue\"<SEP>\"service activities, location\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6<SEP>chunk-e3bd956d1969fa9dc489398263b7d394<SEP>chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "source": "ASSAM",
+      "target": "ANUPAM KALITA",
+      "weight": 7.0,
+      "description": "\"Anupam Kalita is associated with the state of Assam.\"",
+      "keywords": "\"association, location\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6"
+    },
+    {
+      "source": "KARNATAKA",
+      "target": "LOKESHA KASHIMATA",
+      "weight": 13.0,
+      "description": "\"Lokesha Kashimata is associated with access being denied in Karnataka.\"<SEP>\"Lokesha Kashimata is associated with the state of Karnataka.\"",
+      "keywords": "\"association, location\"<SEP>\"location, access issue\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6<SEP>chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "source": "KARNATAKA",
+      "target": "ADHITHYAA V SHARMA",
+      "weight": 8.0,
+      "description": "\"Adhithyaa V Sharma is conducting service activities in Karnataka.\"",
+      "keywords": "\"service activities, location\"",
+      "source_id": "chunk-e3bd956d1969fa9dc489398263b7d394"
+    },
+    {
+      "source": "KARNATAKA",
+      "target": "BANGALORE",
+      "weight": 8.0,
+      "description": "\"Bangalore is the capital city of Karnataka.\"",
+      "keywords": "\"capital city, state\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6"
+    },
+    {
+      "source": "KARNATAKA",
+      "target": "SHIMOGA",
+      "weight": 8.0,
+      "description": "\"Shimoga is a city in the state of Karnataka.\"",
+      "keywords": "\"city, state\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6"
+    },
+    {
+      "source": "KARNATAKA",
+      "target": "SHABBIR MUJAWAR",
+      "weight": 6.0,
+      "description": "\"Shabbir Mujawar is associated with an unconfirmed address in Karnataka.\"",
+      "keywords": "\"location, address issue\"",
+      "source_id": "chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "source": "KARNATAKA",
+      "target": "MOHAMMED SAAD",
+      "weight": 15.0,
+      "description": "\"Mohammed Saad is associated with the state of Karnataka.\"<SEP>\"Mohammed Saad is conducting service activities in Karnataka.\"",
+      "keywords": "\"association, location\"<SEP>\"service activities, location\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6<SEP>chunk-e3bd956d1969fa9dc489398263b7d394"
+    },
+    {
+      "source": "KARNATAKA",
+      "target": "SYED SABEER",
+      "weight": 15.0,
+      "description": "\"Syed Sabeer is associated with a specific task or location in Karnataka.\"<SEP>\"Syed Sabeer is associated with the state of Karnataka.\"",
+      "keywords": "\"association, location\"<SEP>\"task assignment, location association\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6<SEP>chunk-9b051e9ee114c46cd0d34b3b30cae991"
+    },
+    {
+      "source": "KARNATAKA",
+      "target": "KHAJAPEER HUSENSAB SHAHAPUR",
+      "weight": 6.0,
+      "description": "\"Khajapeer Husensab Shahapur is associated with a device not being received in Karnataka.\"",
+      "keywords": "\"location, device issue\"",
+      "source_id": "chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "source": "P V SOMASHEKHAR RAO",
+      "target": "IOC PETROL PUMP",
+      "weight": 7.0,
+      "description": "\"P V Somashekhar Rao is involved in the migration of a device at the IOC PETROL PUMP in Modinagar, Uttar Pradesh.\"",
+      "keywords": "\"device migration, technical support\"",
+      "source_id": "chunk-d463eb15f500e72bd1865277d8159a51"
+    },
+    {
+      "source": "SRI RK COMPLEX",
+      "target": "KODAM SUNIL KUMAR",
+      "weight": 7.0,
+      "description": "\"Kodam Sunil Kumar's work is in Sri RK Complex, Warangal, Telangana.\"",
+      "keywords": "\"work in progress, location\"",
+      "source_id": "chunk-9abc868d600221904ef89e32979e27fb"
+    },
+    {
+      "source": "HAFLONG",
+      "target": "DIMA HASAO",
+      "weight": 7.0,
+      "description": "\"Haflong is located in Dima Hasao, Assam.\"",
+      "keywords": "\"location, geographical relation\"",
+      "source_id": "chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "source": "KAMIL KHAN",
+      "target": "MADHYA PRADESH",
+      "weight": 9.0,
+      "description": "\"Kamil Khan is associated with multiple tasks or locations in Madhya Pradesh.\"",
+      "keywords": "\"task assignment, location association\"",
+      "source_id": "chunk-9b051e9ee114c46cd0d34b3b30cae991"
+    },
+    {
+      "source": "JOGENDRA VISHWAKARMA",
+      "target": "MADHYA PRADESH",
+      "weight": 8.0,
+      "description": "\"Jogendra Vishwakarma is conducting service activities in Madhya Pradesh.\"",
+      "keywords": "\"service activities, location\"",
+      "source_id": "chunk-e3bd956d1969fa9dc489398263b7d394"
+    },
+    {
+      "source": "JOGENDRA VISHWAKARMA",
+      "target": "RBI COLONY, ARERA COLONY, BHOPAL",
+      "weight": 8.0,
+      "description": "\"Jogendra Vishwakarma is conducting service activities at RBI Colony, Arera Colony, Bhopal.\"",
+      "keywords": "\"service activities, location\"",
+      "source_id": "chunk-e3bd956d1969fa9dc489398263b7d394"
+    },
+    {
+      "source": "T-CSCT-WF-IN-2263-2990",
+      "target": "PRAKASH SHARMA",
+      "weight": 7.0,
+      "description": "\"Prakash Sharma is involved in resolving issues related to the event T-CSCT-WF-IN-2263-2990 in Bihar.\"",
+      "keywords": "\"event resolution, technical support\"",
+      "source_id": "chunk-d463eb15f500e72bd1865277d8159a51"
+    },
+    {
+      "source": "MIZORAM",
+      "target": "ROSEN KUMAR SINGHA",
+      "weight": 14.0,
+      "description": "\"Rosen Kumar Singha is associated with a device not being found in Mizoram.\"<SEP>\"Rosen Kumar Singha is conducting service activities in Mizoram.\"",
+      "keywords": "\"location, device issue\"<SEP>\"service activities, location\"",
+      "source_id": "chunk-e3bd956d1969fa9dc489398263b7d394<SEP>chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "source": "MAHIBUL HOQUE",
+      "target": "GUWAHATI",
+      "weight": 7.0,
+      "description": "\"Mahibul Hoque's work is in Guwahati, Assam.\"",
+      "keywords": "\"work in progress, location\"",
+      "source_id": "chunk-9abc868d600221904ef89e32979e27fb"
+    },
+    {
+      "source": "MAHIBUL HOQUE",
+      "target": "KAMAKHYA TEMPLE",
+      "weight": 7.0,
+      "description": "\"Mahibul Hoque's work is near Kamakhya Temple in Assam.\"",
+      "keywords": "\"work in progress, location\"",
+      "source_id": "chunk-9abc868d600221904ef89e32979e27fb"
+    },
+    {
+      "source": "CHINTA DURGAPRASAD",
+      "target": "ANDHRA PRADESH",
+      "weight": 23.0,
+      "description": "\"CHINTA DURGAPRASAD is associated with a specific task or location in Andhra Pradesh.\"<SEP>\"Chinta Durgaprasad is associated with the state of Andhra Pradesh.\"<SEP>\"Chinta Durgaprasad is conducting service activities in Andhra Pradesh.\"",
+      "keywords": "\"association, location\"<SEP>\"service activities, location\"<SEP>\"task assignment, location association\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6<SEP>chunk-9b051e9ee114c46cd0d34b3b30cae991<SEP>chunk-e3bd956d1969fa9dc489398263b7d394"
+    },
+    {
+      "source": "CHINTA DURGAPRASAD",
+      "target": "CITY SIDE, DEPARTURE BLOCK, AIRPORT, GANNAVARAM, KRISHNA",
+      "weight": 8.0,
+      "description": "\"Chinta Durgaprasad is conducting service activities at City Side, Departure Block, Airport, Gannavaram, Krishna.\"",
+      "keywords": "\"service activities, location\"",
+      "source_id": "chunk-e3bd956d1969fa9dc489398263b7d394"
+    },
+    {
+      "source": "CHINTA DURGAPRASAD",
+      "target": "OFF SITE, NEAR BOSE BOMMA, KRISHNA",
+      "weight": 8.0,
+      "description": "\"Chinta Durgaprasad is conducting service activities at Off Site, Near Bose Bomma, Krishna.\"",
+      "keywords": "\"service activities, location\"",
+      "source_id": "chunk-e3bd956d1969fa9dc489398263b7d394"
+    },
+    {
+      "source": "FLOWER MARKET",
+      "target": "KODAM SUNIL KUMAR",
+      "weight": 7.0,
+      "description": "\"Kodam Sunil Kumar's work is in Flower Market, Warangal, Telangana.\"",
+      "keywords": "\"work in progress, location\"",
+      "source_id": "chunk-9abc868d600221904ef89e32979e27fb"
+    },
+    {
+      "source": "MALLIDI VENKATESH",
+      "target": "ANDHRA PRADESH",
+      "weight": 8.0,
+      "description": "\"MALLIDI VENKATESH is associated with a specific task or location in Andhra Pradesh.\"",
+      "keywords": "\"task assignment, location association\"",
+      "source_id": "chunk-9b051e9ee114c46cd0d34b3b30cae991"
+    },
+    {
+      "source": "T-CSCT-WF-IN-2263-3008",
+      "target": "MANISH KUMAR",
+      "weight": 7.0,
+      "description": "\"Manish Kumar is involved in resolving issues related to the event T-CSCT-WF-IN-2263-3008 in Jharkhand.\"",
+      "keywords": "\"event resolution, technical support\"",
+      "source_id": "chunk-d463eb15f500e72bd1865277d8159a51"
+    },
+    {
+      "source": "ANDHRA PRADESH",
+      "target": "C MD RAFEEQ AHMED",
+      "weight": 6.0,
+      "description": "\"C Md Rafeeq Ahmed is associated with a wrong address and ID not matching in Andhra Pradesh.\"",
+      "keywords": "\"location, address issue\"",
+      "source_id": "chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "source": "ANDHRA PRADESH",
+      "target": "BHAGAVAN D",
+      "weight": 6.0,
+      "description": "\"Bhagavan D is associated with needing bank permission in Andhra Pradesh.\"",
+      "keywords": "\"location, permission issue\"",
+      "source_id": "chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "source": "MOHAMMED SAAD",
+      "target": "AIRFORCE TRAINING COMMAND CENTRE, BANGALORE",
+      "weight": 8.0,
+      "description": "\"Mohammed Saad is conducting service activities at Airforce Training Command Centre, Bangalore.\"",
+      "keywords": "\"service activities, location\"",
+      "source_id": "chunk-e3bd956d1969fa9dc489398263b7d394"
+    },
+    {
+      "source": "HINDAUN DARWAZA",
+      "target": "NARENDRA KUMAR",
+      "weight": 7.0,
+      "description": "\"Narendra Kumar's work is in Hindaun Darwaza, Karauli, Rajasthan.\"",
+      "keywords": "\"work in progress, location\"",
+      "source_id": "chunk-9abc868d600221904ef89e32979e27fb"
+    },
+    {
+      "source": "KTPP",
+      "target": "WARANGAL",
+      "weight": 7.0,
+      "description": "\"KTPP is located in Warangal, Telangana.\"",
+      "keywords": "\"location, organizational relation\"",
+      "source_id": "chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "source": "BIHAR",
+      "target": "UTAM KUMAR",
+      "weight": 9.0,
+      "description": "\"Utam Kumar is associated with multiple tasks or locations in Bihar.\"",
+      "keywords": "\"task assignment, location association\"",
+      "source_id": "chunk-9b051e9ee114c46cd0d34b3b30cae991"
+    },
+    {
+      "source": "BIHAR",
+      "target": "PRAKASH SHARMA",
+      "weight": 8.0,
+      "description": "\"Prakash Sharma is associated with a specific task or location in Bihar.\"",
+      "keywords": "\"task assignment, location association\"",
+      "source_id": "chunk-9b051e9ee114c46cd0d34b3b30cae991"
+    },
+    {
+      "source": "SAIKHMAKAWN, AIZAWL",
+      "target": "ROSEN KUMAR SINGHA",
+      "weight": 8.0,
+      "description": "\"Rosen Kumar Singha is conducting service activities at Saikhmakawn, Aizawl.\"",
+      "keywords": "\"service activities, location\"",
+      "source_id": "chunk-e3bd956d1969fa9dc489398263b7d394"
+    },
+    {
+      "source": "T-CSCT-WF-IN-2263-3017",
+      "target": "ANKIT KUMAR",
+      "weight": 7.0,
+      "description": "\"Ankit Kumar is involved in resolving issues related to the event T-CSCT-WF-IN-2263-3017 in Bihar.\"",
+      "keywords": "\"event resolution, technical support\"",
+      "source_id": "chunk-d463eb15f500e72bd1865277d8159a51"
+    },
+    {
+      "source": "ODISHA",
+      "target": "RAMSUNDER SUNANI",
+      "weight": 6.0,
+      "description": "\"Ramsunder Sunani is associated with a key not being available in Odisha.\"",
+      "keywords": "\"location, key issue\"",
+      "source_id": "chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "source": "MANISH ANTHWAL",
+      "target": "OFD RAIPUR",
+      "weight": 6.0,
+      "description": "\"Manish Anthwal is involved in the renovation of the OFD RAIPUR site in Dehradun, Uttarakhand.\"",
+      "keywords": "\"site renovation, project management\"",
+      "source_id": "chunk-d463eb15f500e72bd1865277d8159a51"
+    },
+    {
+      "source": "KARAULI",
+      "target": "NARENDRA KUMAR",
+      "weight": 7.0,
+      "description": "\"Narendra Kumar's work is in Karauli, Rajasthan.\"",
+      "keywords": "\"work in progress, location\"",
+      "source_id": "chunk-9abc868d600221904ef89e32979e27fb"
+    },
+    {
+      "source": "RAILWAY STATION FATEHPUR",
+      "target": "FATEHPUR",
+      "weight": 7.0,
+      "description": "\"Railway Station Fatehpur is located in Fatehpur, Uttar Pradesh.\"",
+      "keywords": "\"location, geographical relation\"",
+      "source_id": "chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "source": "KAPPERA SANDEEP REDDY",
+      "target": "TELANGANA",
+      "weight": 8.0,
+      "description": "\"Kappera Sandeep Reddy is conducting service activities in Telangana.\"",
+      "keywords": "\"service activities, location\"",
+      "source_id": "chunk-e3bd956d1969fa9dc489398263b7d394"
+    },
+    {
+      "source": "KAPPERA SANDEEP REDDY",
+      "target": "PARADE GROUNDS, METRO STATION, HYDERABAD",
+      "weight": 8.0,
+      "description": "\"Kappera Sandeep Reddy is conducting service activities at Parade Grounds, Metro Station, Hyderabad.\"",
+      "keywords": "\"service activities, location\"",
+      "source_id": "chunk-e3bd956d1969fa9dc489398263b7d394"
+    },
+    {
+      "source": "KAPPERA SANDEEP REDDY",
+      "target": "GOLCONDA X ROADS, HYDERABAD",
+      "weight": 8.0,
+      "description": "\"Kappera Sandeep Reddy is conducting service activities at Golconda X Roads, Hyderabad.\"",
+      "keywords": "\"service activities, location\"",
+      "source_id": "chunk-e3bd956d1969fa9dc489398263b7d394"
+    },
+    {
+      "source": "T-CSCT-WF-IN-2263-3092",
+      "target": "KHAJAPEER HUSENSAB SHAHAPUR",
+      "weight": 7.0,
+      "description": "\"KHAJAPEER HUSENSAB SHAHAPUR is involved in resolving issues related to the event T-CSCT-WF-IN-2263-3092 in Karnataka.\"",
+      "keywords": "\"event resolution, technical support\"",
+      "source_id": "chunk-d463eb15f500e72bd1865277d8159a51"
+    },
+    {
+      "source": "NHPC COLONY",
+      "target": "BALUWATAR",
+      "weight": 7.0,
+      "description": "\"NHPC Colony is located in Baluwatar, East District, Sikkim.\"",
+      "keywords": "\"location, geographical relation\"",
+      "source_id": "chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "source": "NHPC COLONY",
+      "target": "NHPC POWER STATION",
+      "weight": 7.0,
+      "description": "\"NHPC Power Station is located in NHPC Colony, Baluwatar, East District, Sikkim.\"",
+      "keywords": "\"location, organizational relation\"",
+      "source_id": "chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "source": "STRAND ROAD",
+      "target": "MOHAMMAD NIJAMUDDIN",
+      "weight": 7.0,
+      "description": "\"Mohammad Nijamuddin's work is in Strand Road, Kolkata, West Bengal.\"",
+      "keywords": "\"work in progress, location\"",
+      "source_id": "chunk-9abc868d600221904ef89e32979e27fb"
+    },
+    {
+      "source": "PRAKASH SHARMA",
+      "target": "RED CROSS BUILDING",
+      "weight": 6.0,
+      "description": "\"Prakash Sharma is involved in the closure of an ATM at the RED CROSS BUILDING in Muzaffarpur, Bihar.\"",
+      "keywords": "\"ATM closure, banking\"",
+      "source_id": "chunk-d463eb15f500e72bd1865277d8159a51"
+    },
+    {
+      "source": "TELANGANA",
+      "target": "WARANGAL",
+      "weight": 8.0,
+      "description": "\"Warangal is a city in the state of Telangana.\"",
+      "keywords": "\"city, state\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6"
+    },
+    {
+      "source": "TELANGANA",
+      "target": "KODAM SUNIL KUMAR",
+      "weight": 22.0,
+      "description": "\"Kodam Sunil Kumar is associated with access issues and permission not being granted in Telangana.\"<SEP>\"Kodam Sunil Kumar is associated with the state of Telangana.\"<SEP>\"Kodam Sunil Kumar is working on a project in Telangana.\"",
+      "keywords": "\"association, location\"<SEP>\"location, access issue\"<SEP>\"work in progress, location\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6<SEP>chunk-9abc868d600221904ef89e32979e27fb<SEP>chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "source": "CHANDIGARH",
+      "target": "GOLDY K",
+      "weight": 7.0,
+      "description": "\"Goldy K is associated with the city and union territory of Chandigarh.\"",
+      "keywords": "\"association, location\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6"
+    },
+    {
+      "source": "NSCBI AIRPORT",
+      "target": "MOHAMMAD NIJAMUDDIN",
+      "weight": 7.0,
+      "description": "\"Mohammad Nijamuddin's work is in NSCBI Airport, Kolkata, West Bengal.\"",
+      "keywords": "\"work in progress, location\"",
+      "source_id": "chunk-9abc868d600221904ef89e32979e27fb"
+    },
+    {
+      "source": "RAILWAY STATION ROAD",
+      "target": "SBI CENTRE",
+      "weight": 7.0,
+      "description": "\"SBI Centre is located on Railway Station Road, Joharapuram, Kurnool District, Andhra Pradesh.\"",
+      "keywords": "\"location, organizational relation\"",
+      "source_id": "chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "source": "RAILWAY STATION ROAD",
+      "target": "KIMS HOSPITAL",
+      "weight": 7.0,
+      "description": "\"KIMS Hospital is located near Railway Station Road, Joharapuram, Kurnool District, Andhra Pradesh.\"",
+      "keywords": "\"location, organizational relation\"",
+      "source_id": "chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "source": "RAILWAY STATION ROAD",
+      "target": "JOHARAPURAM",
+      "weight": 7.0,
+      "description": "\"Railway Station Road is located in Joharapuram, Kurnool District, Andhra Pradesh.\"",
+      "keywords": "\"location, geographical relation\"",
+      "source_id": "chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "source": "RAVI JATAWAT",
+      "target": "RAJASTHAN",
+      "weight": 8.0,
+      "description": "\"Ravi Jatawat is associated with a specific task or location in Rajasthan.\"",
+      "keywords": "\"task assignment, location association\"",
+      "source_id": "chunk-9b051e9ee114c46cd0d34b3b30cae991"
+    },
+    {
+      "source": "KODAM SUNIL KUMAR",
+      "target": "WARANGAL",
+      "weight": 7.0,
+      "description": "\"Kodam Sunil Kumar's work is in Warangal, Telangana.\"",
+      "keywords": "\"work in progress, location\"",
+      "source_id": "chunk-9abc868d600221904ef89e32979e27fb"
+    },
+    {
+      "source": "NHPC POWER STATION",
+      "target": "EAST DISTRICT",
+      "weight": 7.0,
+      "description": "\"NHPC Power Station is located in East District, Sikkim.\"",
+      "keywords": "\"location, organizational relation\"",
+      "source_id": "chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "source": "GOLDY K",
+      "target": "MOKSHA TIMBER TRAIL, PARWANOO",
+      "weight": 8.0,
+      "description": "\"Goldy K is conducting service activities at Moksha Timber Trail, Parwanoo.\"",
+      "keywords": "\"service activities, location\"",
+      "source_id": "chunk-e3bd956d1969fa9dc489398263b7d394"
+    },
+    {
+      "source": "DHAKURIA LEVEL CROSSING",
+      "target": "MD IMAMUDDIN",
+      "weight": 7.0,
+      "description": "\"MD Imamuddin's work is in Dhakuria Level Crossing, Kolkata, West Bengal.\"",
+      "keywords": "\"work in progress, location\"",
+      "source_id": "chunk-9abc868d600221904ef89e32979e27fb"
+    },
+    {
+      "source": "TAMIL NADU",
+      "target": "SYED KHADER BASHA",
+      "weight": 8.0,
+      "description": "\"Syed Khader Basha is associated with a specific task or location in Tamil Nadu.\"",
+      "keywords": "\"task assignment, location association\"",
+      "source_id": "chunk-9b051e9ee114c46cd0d34b3b30cae991"
+    },
+    {
+      "source": "GOVIND SINGH",
+      "target": "PARLIAMENT HOUSE",
+      "weight": 7.0,
+      "description": "\"Govind Singh is involved in resolving an access issue at Parliament House in Delhi.\"",
+      "keywords": "\"access issue, security\"",
+      "source_id": "chunk-d463eb15f500e72bd1865277d8159a51"
+    },
+    {
+      "source": "ADHITHYAA V SHARMA",
+      "target": "CHAMRAJPET, BANGALORE",
+      "weight": 8.0,
+      "description": "\"Adhithyaa V Sharma is conducting service activities at Chamrajpet, Bangalore.\"",
+      "keywords": "\"service activities, location\"",
+      "source_id": "chunk-e3bd956d1969fa9dc489398263b7d394"
+    },
+    {
+      "source": "RAJASTHAN",
+      "target": "BIKANER",
+      "weight": 8.0,
+      "description": "\"Bikaner is a city in the state of Rajasthan.\"",
+      "keywords": "\"city, state\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6"
+    },
+    {
+      "source": "RAJASTHAN",
+      "target": "RAVI BHATIA",
+      "weight": 8.0,
+      "description": "\"Ravi Bhatia is associated with a specific task or location in Rajasthan.\"",
+      "keywords": "\"task assignment, location association\"",
+      "source_id": "chunk-9b051e9ee114c46cd0d34b3b30cae991"
+    },
+    {
+      "source": "RAJASTHAN",
+      "target": "NARENDRA KUMAR",
+      "weight": 8.0,
+      "description": "\"Narendra Kumar is working on a project in Rajasthan.\"",
+      "keywords": "\"work in progress, location\"",
+      "source_id": "chunk-9abc868d600221904ef89e32979e27fb"
+    },
+    {
+      "source": "PUNJABI MARKET",
+      "target": "BAREILLY",
+      "weight": 7.0,
+      "description": "\"Punjabi Market is located in Bareilly, Uttar Pradesh.\"",
+      "keywords": "\"location, geographical relation\"",
+      "source_id": "chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "source": "POLICE LINE AKBARPUR",
+      "target": "AKBARPUR",
+      "weight": 8.0,
+      "description": "\"Police Line Akbarpur is a specific location within Akbarpur.\"",
+      "keywords": "\"specific location, geo\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6"
+    },
+    {
+      "source": "JOHARAPURAM",
+      "target": "KURNOOL DISTRICT",
+      "weight": 7.0,
+      "description": "\"Joharapuram is located in Kurnool District, Andhra Pradesh.\"",
+      "keywords": "\"location, geographical relation\"",
+      "source_id": "chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "source": "WEST BENGAL",
+      "target": "MOHAMMAD NIJAMUDDIN",
+      "weight": 16.0,
+      "description": "\"Mohammad Nijamuddin is conducting service activities in West Bengal.\"<SEP>\"Mohammad Nijamuddin is working on a project in West Bengal.\"",
+      "keywords": "\"service activities, location\"<SEP>\"work in progress, location\"",
+      "source_id": "chunk-9abc868d600221904ef89e32979e27fb<SEP>chunk-e3bd956d1969fa9dc489398263b7d394"
+    },
+    {
+      "source": "WEST BENGAL",
+      "target": "MD IMAMUDDIN",
+      "weight": 8.0,
+      "description": "\"MD Imamuddin is working on a project in West Bengal.\"",
+      "keywords": "\"work in progress, location\"",
+      "source_id": "chunk-9abc868d600221904ef89e32979e27fb"
+    },
+    {
+      "source": "SARASWATI VIDYA MANDIR SCHOOL",
+      "target": "GANGES HOTEL CHOWRAHA",
+      "weight": 7.0,
+      "description": "\"Saraswati Vidya Mandir School is located near Ganges Hotel Chowraha in Gorakhpur, Uttar Pradesh.\"",
+      "keywords": "\"location, geographical relation\"",
+      "source_id": "chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "source": "SARASWATI VIDYA MANDIR SCHOOL",
+      "target": "GORAKHPUR",
+      "weight": 7.0,
+      "description": "\"Saraswati Vidya Mandir School is located in Gorakhpur, Uttar Pradesh.\"",
+      "keywords": "\"location, organizational relation\"",
+      "source_id": "chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "source": "PTS RAJNANDGAON",
+      "target": "RAJNANDGAON",
+      "weight": 8.0,
+      "description": "\"PTS Rajnandgaon is a specific location within Rajnandgaon.\"",
+      "keywords": "\"specific location, geo\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6"
+    },
+    {
+      "source": "NITB",
+      "target": "AIR PORT",
+      "weight": 7.0,
+      "description": "\"NITB is located at Air Port, NAD Post, Visakhapatnam District, Andhra Pradesh.\"",
+      "keywords": "\"location, organizational relation\"",
+      "source_id": "chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "source": "KRISHNA",
+      "target": "PATAMATA",
+      "weight": 8.0,
+      "description": "\"Patamata is a locality in Krishna district.\"",
+      "keywords": "\"locality, district\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6"
+    },
+    {
+      "source": "MOHAMMAD NIJAMUDDIN",
+      "target": "BCKV, KALYANI, NADIA",
+      "weight": 8.0,
+      "description": "\"Mohammad Nijamuddin is conducting service activities at BCKV, Kalyani, Nadia.\"",
+      "keywords": "\"service activities, location\"",
+      "source_id": "chunk-e3bd956d1969fa9dc489398263b7d394"
+    },
+    {
+      "source": "MOHAMMAD NIJAMUDDIN",
+      "target": "KOLKATA",
+      "weight": 7.0,
+      "description": "\"Mohammad Nijamuddin's work is in Kolkata, West Bengal.\"",
+      "keywords": "\"work in progress, location\"",
+      "source_id": "chunk-9abc868d600221904ef89e32979e27fb"
+    },
+    {
+      "source": "GANGES HOTEL CHOWRAHA",
+      "target": "GORAKHPUR",
+      "weight": 7.0,
+      "description": "\"Ganges Hotel Chowraha is located in Gorakhpur, Uttar Pradesh.\"",
+      "keywords": "\"location, geographical relation\"",
+      "source_id": "chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "source": "AIR PORT",
+      "target": "NAD POST",
+      "weight": 7.0,
+      "description": "\"Air Port is located in NAD Post, Visakhapatnam District, Andhra Pradesh.\"",
+      "keywords": "\"location, geographical relation\"",
+      "source_id": "chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "source": "PRAKASH KUMAR MALLICK",
+      "target": "ORISSA",
+      "weight": 8.0,
+      "description": "\"Prakash Kumar Mallick is conducting service activities in Orissa.\"",
+      "keywords": "\"service activities, location\"",
+      "source_id": "chunk-e3bd956d1969fa9dc489398263b7d394"
+    },
+    {
+      "source": "PRAKASH KUMAR MALLICK",
+      "target": "APOLLO HOSPITAL, VANI VIHAR, KHORDHA",
+      "weight": 8.0,
+      "description": "\"Prakash Kumar Mallick is conducting service activities at Apollo Hospital, Vani Vihar, Khordha.\"",
+      "keywords": "\"service activities, location\"",
+      "source_id": "chunk-e3bd956d1969fa9dc489398263b7d394"
+    },
+    {
+      "source": "MANISH KUMAR",
+      "target": "CRPF CAMP",
+      "weight": 7.0,
+      "description": "\"Manish Kumar is involved in resolving an access issue at the CRPF CAMP in Ranchi, Jharkhand.\"",
+      "keywords": "\"access issue, security\"",
+      "source_id": "chunk-d463eb15f500e72bd1865277d8159a51"
+    },
+    {
+      "source": "NAD POST",
+      "target": "VISAKHAPATNAM DISTRICT",
+      "weight": 7.0,
+      "description": "\"NAD Post is located in Visakhapatnam District, Andhra Pradesh.\"",
+      "keywords": "\"location, geographical relation\"",
+      "source_id": "chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "source": "MD IMAMUDDIN",
+      "target": "T-CSCT-WF-IN-2263-2722",
+      "weight": 7.0,
+      "description": "\"MD IMAMUDDIN is involved in resolving issues related to the event T-CSCT-WF-IN-2263-2722 in West Bengal.\"",
+      "keywords": "\"event resolution, technical support\"",
+      "source_id": "chunk-d463eb15f500e72bd1865277d8159a51"
+    },
+    {
+      "source": "MIRZA CHOWKI",
+      "target": "SAHIBGANJ",
+      "weight": 7.0,
+      "description": "\"Mirza Chowki is located in Sahibganj, Jharkhand.\"",
+      "keywords": "\"location, geographical relation\"",
+      "source_id": "chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "source": "VANGARA STREET, KURUPAM",
+      "target": "VIZIANAGARAM",
+      "weight": 8.0,
+      "description": "\"Vangara Street, Kurupam is a specific location within Vizianagaram.\"",
+      "keywords": "\"specific location, geo\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6"
+    },
+    {
+      "source": "JAGANNATHPARA",
+      "target": "JAGANNATH TEMPLE",
+      "weight": 7.0,
+      "description": "\"Jagannath Temple is located in Jagannathpara, Kesinga, Odisha.\"",
+      "keywords": "\"location, organizational relation\"",
+      "source_id": "chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "source": "JAGANNATHPARA",
+      "target": "KESINGA",
+      "weight": 7.0,
+      "description": "\"Jagannathpara is located in Kesinga, Odisha.\"",
+      "keywords": "\"location, geographical relation\"",
+      "source_id": "chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "source": "JAGANNATHPARA",
+      "target": "RAMSUNDER SUNANI",
+      "weight": 7.0,
+      "description": "\"Ramsunder Sunani's work is in Jagannathpara, Orissa.\"",
+      "keywords": "\"work in progress, location\"",
+      "source_id": "chunk-9abc868d600221904ef89e32979e27fb"
+    },
+    {
+      "source": "RAJAN DAS",
+      "target": "AIRPORT BUILDING, KUMBHIRGRAM AIRPORT, SILCHAR AIRPORT, CACHAR",
+      "weight": 8.0,
+      "description": "\"Rajan Das is conducting service activities at Airport Building, Kumbhirgram Airport, Silchar Airport, Cachar.\"",
+      "keywords": "\"service activities, location\"",
+      "source_id": "chunk-e3bd956d1969fa9dc489398263b7d394"
+    },
+    {
+      "source": "SECAB JALANAGAR",
+      "target": "BIJAPUR",
+      "weight": 7.0,
+      "description": "\"SECAB Jalanagar is located opposite to which Khajapeer Husensab Shahapur is associated with a device not being received in Bijapur, Karnataka.\"",
+      "keywords": "\"location, organizational relation\"",
+      "source_id": "chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "source": "KESINGA",
+      "target": "RAMSUNDER SUNANI",
+      "weight": 7.0,
+      "description": "\"Ramsunder Sunani's work is in Kesinga, Orissa.\"",
+      "keywords": "\"work in progress, location\"",
+      "source_id": "chunk-9abc868d600221904ef89e32979e27fb"
+    },
+    {
+      "source": "NSS KARAYOGAM BUILDING",
+      "target": "PUNALUR",
+      "weight": 7.0,
+      "description": "\"NSS Karayogam Building is located in Punalur, Kollam, Kerala.\"",
+      "keywords": "\"location, geographical relation\"",
+      "source_id": "chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "source": "CHITTI NAGAR",
+      "target": "VIJAYAWADA",
+      "weight": 8.0,
+      "description": "\"Chitti Nagar is a locality in Vijayawada, Krishna district.\"",
+      "keywords": "\"locality, city\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6"
+    },
+    {
+      "source": "ANKIT KUMAR",
+      "target": "SBI VIDHAN SABHA ATM",
+      "weight": 6.0,
+      "description": "\"Ankit Kumar is involved in resolving a key issue at the SBI VIDHAN SABHA ATM in Bihar.\"",
+      "keywords": "\"key issue, banking\"",
+      "source_id": "chunk-d463eb15f500e72bd1865277d8159a51"
+    },
+    {
+      "source": "ORISSA",
+      "target": "RAMSUNDER SUNANI",
+      "weight": 8.0,
+      "description": "\"Ramsunder Sunani is working on a project in Orissa.\"",
+      "keywords": "\"work in progress, location\"",
+      "source_id": "chunk-9abc868d600221904ef89e32979e27fb"
+    },
+    {
+      "source": "MOHAMMAD KAMIL",
+      "target": "DM COMPOUND, CIVIL LINES, MORADABAD",
+      "weight": 8.0,
+      "description": "\"Mohammad Kamil is conducting service activities at DM Compound, Civil Lines, Moradabad.\"",
+      "keywords": "\"service activities, location\"",
+      "source_id": "chunk-e3bd956d1969fa9dc489398263b7d394"
+    },
+    {
+      "source": "PUNALUR",
+      "target": "KOLLAM",
+      "weight": 7.0,
+      "description": "\"Punalur is located in Kollam, Kerala.\"",
+      "keywords": "\"location, geographical relation\"",
+      "source_id": "chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "source": "ADONI",
+      "target": "KURNOOL",
+      "weight": 8.0,
+      "description": "\"Adoni is a city in Kurnool district.\"",
+      "keywords": "\"city, district\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6"
+    },
+    {
+      "source": "P B NO 7 B H ROAD",
+      "target": "SHIMOGA",
+      "weight": 7.0,
+      "description": "\"P B No 7 B H Road is located in Shimoga, Karnataka.\"",
+      "keywords": "\"location, geographical relation\"",
+      "source_id": "chunk-6e7c42a6a4ff9e83df0ceef7549d18a3"
+    },
+    {
+      "source": "BANGALORE",
+      "target": "MAJESTIC BANGALORE",
+      "weight": 8.0,
+      "description": "\"Majestic Bangalore is a specific area within Bangalore.\"",
+      "keywords": "\"specific area, city\"",
+      "source_id": "chunk-bf0d0bdbe97684f5937c593c765295d6"
+    },
+    {
+      "source": "VIVEK NAGAR",
+      "target": "KHAJAPEER HUSENSAB SHAHAPUR",
+      "weight": 6.0,
+      "description": "\"KHAJAPEER HUSENSAB SHAHAPUR is involved in resolving a device issue in VIVEK NAGAR, Bijapur, Karnataka.\"",
+      "keywords": "\"device issue, technical support\"",
+      "source_id": "chunk-d463eb15f500e72bd1865277d8159a51"
+    },
+    {
+      "source": "RAMSUNDER SUNANI",
+      "target": "JAGANNATH TEMPLE",
+      "weight": 7.0,
+      "description": "\"Ramsunder Sunani's work is near Jagannath Temple in Orissa.\"",
+      "keywords": "\"work in progress, location\"",
+      "source_id": "chunk-9abc868d600221904ef89e32979e27fb"
+    }
+  ]
+}

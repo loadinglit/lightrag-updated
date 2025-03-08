@@ -3,6 +3,7 @@ __pycache__
 dickens/
 book.txt
 lightrag-dev/
+lightrag/
 .idea/
 dist/
 env/
@@ -15,7 +16,13 @@ ignore_this.txt
 gui/
 *.log
 pratik/
+output/
 sih3/
-app.py
-summary.py
+Smart_India_Hackathon_2024/
+
+
 .env
+uploaded_files/
+temp_uploads
+lib/
+__pycache__
